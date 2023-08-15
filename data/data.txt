@@ -1,1 +1,153 @@
-My dog's name is Sunny.
+{
+  "outfits": [
+    {
+      "weather": "Spring",
+      "outfit_options": [
+        {
+          "occasion": "Casual",
+          "color_combinations": ["Pastel Blue", "Light Pink", "White"],
+          "items": [
+            "Floral sundress",
+            "Denim jacket",
+            "White sneakers",
+            "Sunhat"
+          ]
+        },
+        {
+          "occasion": "Formal",
+          "color_combinations": ["Mint Green", "Lavender", "Cream"],
+          "items": [
+            "A-line dress",
+            "Pumps",
+            "Pearl necklace",
+            "Clutch"
+          ]
+        }
+      ]
+    },
+    {
+      "weather": "Summer",
+      "outfit_options": [
+        {
+          "occasion": "Beach",
+          "color_combinations": ["Turquoise", "Coral", "White"],
+          "items": [
+            "Bikini",
+            "Cover-up kaftan",
+            "Straw hat",
+            "Flip-flops"
+          ]
+        },
+        {
+          "occasion": "City Exploring",
+          "color_combinations": ["Yellow", "Navy Blue", "Red"],
+          "items": [
+            "Tank top",
+            "High-waisted shorts",
+            "Canvas sneakers",
+            "Sunglasses"
+          ]
+        }
+      ]
+    },
+    {
+      "weather": "Fall",
+      "outfit_options": [
+        {
+          "occasion": "Pumpkin Patch",
+          "color_combinations": ["Rust Orange", "Olive Green", "Brown"],
+          "items": [
+            "Plaid flannel shirt",
+            "Skinny jeans",
+            "Ankle boots",
+            "Beanie"
+          ]
+        },
+        {
+          "occasion": "Date Night",
+          "color_combinations": ["Burgundy", "Navy Blue", "Gold"],
+          "items": [
+            "Wrap dress",
+            "Heeled ankle boots",
+            "Statement earrings",
+            "Crossbody bag"
+          ]
+        }
+      ]
+    },
+    {
+      "weather": "Winter",
+      "outfit_options": [
+        {
+          "occasion": "Ski Trip",
+          "color_combinations": ["Royal Blue", "White", "Silver"],
+          "items": [
+            "Ski jacket",
+            "Thermal leggings",
+            "Snow boots",
+            "Beanie"
+          ]
+        },
+        {
+          "occasion": "Holiday Party",
+          "color_combinations": ["Emerald Green", "Red", "Gold"],
+          "items": [
+            "Velvet dress",
+            "Statement heels",
+            "Faux fur stole",
+            "Clutch"
+          ]
+        }
+      ]
+    }
+  ]
+}
+Shades of White:
+
+White outfits reflect heat, offering comfort and breathability.
+Versatile and can be paired with any color.
+Pink:
+
+Pink shades are no longer considered girlish.
+Compliments both fair and deeper skin tones.
+Can be paired with light or darker shades.
+Yellow:
+
+Shades of yellow are sought after for summer.
+Pair with deep green, navy, or black.
+Consider your skin tone for bright yellow.
+Red:
+
+Red works with sand hues or light greens.
+Best towards the end of summer.
+Choose based on your skin tone.
+Orange:
+
+Orange is a popular color.
+Pair with khaki, sand, or lighter tones.
+Offers a bold and stylish look.
+Pastel Purple:
+
+Trending color for summer.
+Can be paired with various clothing items.
+Offers a cool yet stylish appearance.
+Cobalt Blue:
+
+No-fuss color that stands out.
+Can be styled like navy.
+Works well with various bottoms.
+Green:
+
+Green is a cooler color.
+Pair with darker or lighter shades.
+Offers comfort and style.
+Brown:
+
+Lighter brown complements other colors.
+Consider using it as a bottom's color.
+Pair based on personal style.
+Burgundy:
+
+Rich and sophisticated color choice.
+Adds depth to your wardrobe.
+Complements various styles.
