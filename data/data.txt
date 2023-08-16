@@ -1,153 +1,354 @@
 {
-  "outfits": [
+  "colors": [
     {
-      "weather": "Spring",
-      "outfit_options": [
+      "name": "Red",
+      "suitable_combinations": [
         {
-          "occasion": "Casual",
-          "color_combinations": ["Pastel Blue", "Light Pink", "White"],
-          "items": [
-            "Floral sundress",
-            "Denim jacket",
-            "White sneakers",
-            "Sunhat"
+          "name": "Red and White",
+          "description": "A classic and elegant combo that creates a striking contrast and a clean look.",
+          "clothing_suggestions": [
+            "Red dress with white accessories",
+            "White shirt with red pants or skirt",
+            "Red and white striped top with white jeans"
           ]
         },
         {
-          "occasion": "Formal",
-          "color_combinations": ["Mint Green", "Lavender", "Cream"],
-          "items": [
-            "A-line dress",
-            "Pumps",
-            "Pearl necklace",
-            "Clutch"
+          "name": "Red and Black",
+          "description": "A powerful and dramatic combo that evokes feelings of passion, danger, and sophistication.",
+          "clothing_suggestions": [
+            "Black evening gown with red accents",
+            "Red blouse with black leather pants",
+            "Black suit with a red tie or pocket square"
+          ]
+        },
+        {
+          "name": "Red and Blue",
+          "description": "A patriotic and energetic combo that balances the warmth of red with the coolness of blue.",
+          "clothing_suggestions": [
+            "Blue jeans with a red top",
+            "Red and blue plaid shirt with denim shorts",
+            "Blue dress with red shoes and accessories"
           ]
         }
       ]
     },
     {
-      "weather": "Summer",
-      "outfit_options": [
+      "name": "Orange",
+      "suitable_combinations": [
         {
-          "occasion": "Beach",
-          "color_combinations": ["Turquoise", "Coral", "White"],
-          "items": [
-            "Bikini",
-            "Cover-up kaftan",
-            "Straw hat",
-            "Flip-flops"
+          "name": "Orange and Grey",
+          "description": "A modern and chic combo that mixes a bright and cheerful hue with a neutral and sleek one.",
+          "clothing_suggestions": [
+            "Grey blazer with an orange blouse",
+            "Orange skirt with a grey sweater",
+            "Grey pants with an orange scarf and accessories"
           ]
         },
         {
-          "occasion": "City Exploring",
-          "color_combinations": ["Yellow", "Navy Blue", "Red"],
-          "items": [
-            "Tank top",
-            "High-waisted shorts",
-            "Canvas sneakers",
-            "Sunglasses"
+          "name": "Orange and Green",
+          "description": "A vibrant and lively duo that reflects nature and freshness.",
+          "clothing_suggestions": [
+            "Green dress with orange jewelry",
+            "Orange top with green shorts",
+            "Green jacket with an orange skirt"
+          ]
+        },
+        {
+          "name": "Orange and Purple",
+          "description": "A fun and playful mix that creates a warm and inviting atmosphere.",
+          "clothing_suggestions": [
+            "Purple and orange floral dress",
+            "Orange blouse with purple pants",
+            "Purple scarf with an orange sweater"
           ]
         }
       ]
     },
     {
-      "weather": "Fall",
-      "outfit_options": [
+      "name": "Yellow",
+      "suitable_combinations": [
         {
-          "occasion": "Pumpkin Patch",
-          "color_combinations": ["Rust Orange", "Olive Green", "Brown"],
-          "items": [
-            "Plaid flannel shirt",
-            "Skinny jeans",
-            "Ankle boots",
-            "Beanie"
+          "name": "Yellow and Black",
+          "description": "A bold and eye-catching combo that draws attention and makes a statement.",
+          "clothing_suggestions": [
+            "Black outfit with yellow accessories",
+            "Yellow dress with black heels",
+            "Black and yellow striped top with black jeans"
           ]
         },
         {
-          "occasion": "Date Night",
-          "color_combinations": ["Burgundy", "Navy Blue", "Gold"],
-          "items": [
-            "Wrap dress",
-            "Heeled ankle boots",
-            "Statement earrings",
-            "Crossbody bag"
+          "name": "Yellow and Blue",
+          "description": "A sunny and cheerful combo that reminds us of the sky and the sun.",
+          "clothing_suggestions": [
+            "Blue jeans with a yellow blouse",
+            "Yellow sundress with a blue cardigan",
+            "Blue shorts with a yellow tank top"
+          ]
+        },
+        {
+          "name": "Yellow and Pink",
+          "description": "A sweet and feminine combo that exudes happiness and romance.",
+          "clothing_suggestions": [
+            "Pink skirt with a yellow top",
+            "Yellow dress with pink accessories",
+            "Pink and yellow floral print outfit"
           ]
         }
       ]
     },
     {
-      "weather": "Winter",
-      "outfit_options": [
+      "name": "Green",
+      "suitable_combinations": [
         {
-          "occasion": "Ski Trip",
-          "color_combinations": ["Royal Blue", "White", "Silver"],
-          "items": [
-            "Ski jacket",
-            "Thermal leggings",
-            "Snow boots",
-            "Beanie"
+          "name": "Green and White",
+          "description": "A fresh and natural combo that evokes growth, health, and harmony.",
+          "clothing_suggestions": [
+            "White dress with green accents",
+            "Green blouse with white pants",
+            "White shirt with green skirt"
           ]
         },
         {
-          "occasion": "Holiday Party",
-          "color_combinations": ["Emerald Green", "Red", "Gold"],
-          "items": [
-            "Velvet dress",
-            "Statement heels",
-            "Faux fur stole",
-            "Clutch"
+          "name": "Green and Brown",
+          "description": "An earthy and cozy combo that reflects nature, stability, and warmth.",
+          "clothing_suggestions": [
+            "Brown sweater with green leggings",
+            "Green and brown plaid shirt with brown boots",
+            "Brown pants with a green top"
+          ]
+        },
+        {
+          "name": "Green and Yellow",
+          "description": "A bright and optimistic combo that conveys energy, creativity, and positivity.",
+          "clothing_suggestions": [
+            "Yellow dress with green accessories",
+            "Green skirt with a yellow blouse",
+            "Yellow and green patterned outfit"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blue",
+      "suitable_combinations": [
+        {
+          "name": "Blue and Orange",
+          "description": "A dynamic and contrasting combo that creates a balance between cool and warm tones.",
+          "clothing_suggestions": [
+            "Blue jeans with an orange top",
+            "Orange dress with blue shoes",
+            "Blue and orange patterned outfit"
+          ]
+        },
+        {
+          "name": "Blue and Pink",
+          "description": "A fun and playful combo that can range from subtle to bold, depending on the shades used.",
+          "clothing_suggestions": [
+            "Pink skirt with a blue blouse",
+            "Blue and pink striped top with denim shorts",
+            "Blue dress with pink accessories"
+          ]
+        },
+        {
+          "name": "Blue and Grey",
+          "description": "A sophisticated and elegant combo that conveys professionalism, trust, and reliability.",
+          "clothing_suggestions": [
+            "Grey suit with a blue tie or scarf",
+            "Blue dress with grey heels",
+            "Grey pants with a blue blouse"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Purple",
+      "suitable_combinations": [
+        {
+          "name": "Purple and Yellow",
+          "description": "A striking and lively combo that creates a sense of excitement, creativity, and joy.",
+          "clothing_suggestions": [
+            "Yellow skirt with a purple top",
+            "Purple dress with yellow accessories",
+            "Purple and yellow patterned outfit"
+          ]
+        },
+        {
+          "name": "Purple and Green",
+          "description": "A unique and whimsical combo that expresses imagination, mystery, and magic.",
+          "clothing_suggestions": [
+            "Green pants with a purple blouse",
+            "Purple and green patterned dress",
+            "Green jacket with a purple skirt"
+          ]
+        },
+        {
+          "name": "Purple and Silver",
+          "description": "A glamorous and luxurious combo that conveys elegance, sophistication, and royalty.",
+          "clothing_suggestions": [
+            "Silver gown with purple accents",
+            "Purple dress with silver jewelry",
+            "Purple and silver accessories"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pink",
+      "suitable_combinations": [
+        {
+          "name": "Pink and Grey",
+          "description": "A soft and soothing combo that combines a gentle hue with a neutral tone.",
+          "clothing_suggestions": [
+            "Grey dress with pink accents",
+            "Pink blouse with grey pants",
+            "Grey sweater with a pink skirt"
+          ]
+        },
+        {
+          "name": "Pink and Brown",
+          "description": "A warm and inviting combo that pairs a delicate shade with an earthy tone.",
+          "clothing_suggestions": [
+            "Brown jacket with a pink top",
+            "Pink dress with brown accessories",
+            "Brown pants with a pink scarf"
+          ]
+        },
+        {
+          "name": "Pink and Gold",
+          "description": "A luxurious and elegant combo that adds a touch of glamour to a delicate color.",
+          "clothing_suggestions": [
+            "Gold jewelry with a pink outfit",
+            "Pink dress with gold heels",
+            "Gold accessories with a pink ensemble"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brown",
+      "suitable_combinations": [
+        {
+          "name": "Brown and Beige",
+          "description": "A natural and earthy combo that creates a warm and harmonious look.",
+          "clothing_suggestions": [
+            "Beige sweater with brown pants",
+            "Brown skirt with a beige blouse",
+            "Beige and brown patterned outfit"
+          ]
+        },
+        {
+          "name": "Brown and Blue",
+          "description": "A calming and balanced combo that pairs a rich tone with a soothing color.",
+          "clothing_suggestions": [
+            "Blue jeans with a brown jacket",
+            "Brown and blue plaid shirt with denim shorts",
+            "Blue dress with brown accessories"
+          ]
+        },
+        {
+          "name": "Brown and Green",
+          "description": "A natural and organic combo that reflects the colors of the earth and nature.",
+          "clothing_suggestions": [
+            "Green dress with brown accents",
+            "Brown pants with a green top",
+            "Green and brown accessories"
+          ]
+        },
+    {
+      "name": "Turquoise",
+      "suitable_combinations": [
+        {
+          "name": "Turquoise and Coral",
+          "description": "A refreshing and tropical combo that embodies the colors of the sea and the sun.",
+          "clothing_suggestions": [
+            "Turquoise dress with coral accessories",
+            "Coral blouse with turquoise pants",
+            "Turquoise and coral patterned outfit"
+          ]
+        },
+        {
+          "name": "Turquoise and Gold",
+          "description": "An elegant and vibrant combo that adds a touch of luxury to a striking color.",
+          "clothing_suggestions": [
+            "Gold jewelry with a turquoise ensemble",
+            "Turquoise dress with gold heels",
+            "Turquoise and gold accessories"
+          ]
+        },
+        {
+          "name": "Turquoise and Navy",
+          "description": "A nautical and timeless combo that combines a calm hue with a deep and classic color.",
+          "clothing_suggestions": [
+            "Navy blue dress with turquoise accents",
+            "Turquoise top with navy blue shorts",
+            "Navy and turquoise striped outfit"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lavender",
+      "suitable_combinations": [
+        {
+          "name": "Lavender and Silver",
+          "description": "A dreamy and elegant combo that adds a touch of sophistication to a soft shade.",
+          "clothing_suggestions": [
+            "Lavender dress with silver accessories",
+            "Silver blouse with lavender skirt",
+            "Lavender and silver jewelry"
+          ]
+        },
+        {
+          "name": "Lavender and Mint",
+          "description": "A refreshing and harmonious combo that embodies a sense of calm and serenity.",
+          "clothing_suggestions": [
+            "Mint green dress with lavender accents",
+            "Lavender top with mint green pants",
+            "Mint and lavender floral print outfit"
+          ]
+        },
+        {
+          "name": "Lavender and Grey",
+          "description": "A soft and neutral combo that creates an understated and timeless look.",
+          "clothing_suggestions": [
+            "Grey dress with lavender accessories",
+            "Lavender sweater with grey pants",
+            "Lavender and grey patterned scarf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Teal",
+      "suitable_combinations": [
+        {
+          "name": "Teal and Brown",
+          "description": "A rich and earthy combo that pairs a deep tone with a warm and cozy color.",
+          "clothing_suggestions": [
+            "Teal blouse with brown skirt",
+            "Brown pants with teal accessories",
+            "Teal and brown patterned outfit"
+          ]
+        },
+        {
+          "name": "Teal and Coral",
+          "description": "A lively and playful combo that combines a bright hue with a tropical color.",
+          "clothing_suggestions": [
+            "Coral dress with teal jewelry",
+            "Teal top with coral shorts",
+            "Teal and coral accessories"
+          ]
+        },
+        {
+          "name": "Teal and Grey",
+          "description": "A cool and sophisticated combo that balances a vibrant tone with a neutral shade.",
+          "clothing_suggestions": [
+            "Grey pantsuit with teal accents",
+            "Teal dress with grey heels",
+            "Teal and grey scarf"
           ]
         }
       ]
     }
   ]
 }
-Shades of White:
-
-White outfits reflect heat, offering comfort and breathability.
-Versatile and can be paired with any color.
-Pink:
-
-Pink shades are no longer considered girlish.
-Compliments both fair and deeper skin tones.
-Can be paired with light or darker shades.
-Yellow:
-
-Shades of yellow are sought after for summer.
-Pair with deep green, navy, or black.
-Consider your skin tone for bright yellow.
-Red:
-
-Red works with sand hues or light greens.
-Best towards the end of summer.
-Choose based on your skin tone.
-Orange:
-
-Orange is a popular color.
-Pair with khaki, sand, or lighter tones.
-Offers a bold and stylish look.
-Pastel Purple:
-
-Trending color for summer.
-Can be paired with various clothing items.
-Offers a cool yet stylish appearance.
-Cobalt Blue:
-
-No-fuss color that stands out.
-Can be styled like navy.
-Works well with various bottoms.
-Green:
-
-Green is a cooler color.
-Pair with darker or lighter shades.
-Offers comfort and style.
-Brown:
-
-Lighter brown complements other colors.
-Consider using it as a bottom's color.
-Pair based on personal style.
-Burgundy:
-
-Rich and sophisticated color choice.
-Adds depth to your wardrobe.
-Complements various styles.
