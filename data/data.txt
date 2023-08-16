@@ -151,3 +151,199 @@ Burgundy:
 Rich and sophisticated color choice.
 Adds depth to your wardrobe.
 Complements various styles.
+{
+  "colors": [
+    {
+      "name": "Red",
+      "suitable_combinations": [
+        {
+          "name": "Red and White",
+          "description": "A classic and elegant combo that creates a striking contrast and a clean look.",
+          "clothing_suggestions": [
+            "Red dress with white accessories",
+            "White shirt with red pants or skirt",
+            "Red and white striped top with white jeans"
+          ]
+        },
+        {
+          "name": "Red and Black",
+          "description": "A powerful and dramatic combo that evokes feelings of passion, danger, and sophistication.",
+          "clothing_suggestions": [
+            "Black evening gown with red accents",
+            "Red blouse with black leather pants",
+            "Black suit with a red tie or pocket square"
+          ]
+        },
+        {
+          "name": "Red and Blue",
+          "description": "A patriotic and energetic combo that balances the warmth of red with the coolness of blue.",
+          "clothing_suggestions": [
+            "Blue jeans with a red top",
+            "Red and blue plaid shirt with denim shorts",
+            "Blue dress with red shoes and accessories"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Orange",
+      "suitable_combinations": [
+        {
+          "name": "Orange and Grey",
+          "description": "A modern and chic combo that mixes a bright and cheerful hue with a neutral and sleek one.",
+          "clothing_suggestions": [
+            "Grey blazer with an orange blouse",
+            "Orange skirt with a grey sweater",
+            "Grey pants with an orange scarf and accessories"
+          ]
+        },
+        {
+          "name": "Orange and Green",
+          "description": "A vibrant and lively duo that reflects nature and freshness.",
+          "clothing_suggestions": [
+            "Green dress with orange jewelry",
+            "Orange top with green shorts",
+            "Green jacket with an orange skirt"
+          ]
+        },
+        {
+          "name": "Orange and Purple",
+          "description": "A fun and playful mix that creates a warm and inviting atmosphere.",
+          "clothing_suggestions": [
+            "Purple and orange floral dress",
+            "Orange blouse with purple pants",
+            "Purple scarf with an orange sweater"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yellow",
+      "suitable_combinations": [
+        {
+          "name": "Yellow and Black",
+          "description": "A bold and eye-catching combo that draws attention and makes a statement.",
+          "clothing_suggestions": [
+            "Black outfit with yellow accessories",
+            "Yellow dress with black heels",
+            "Black and yellow striped top with black jeans"
+          ]
+        },
+        {
+          "name": "Yellow and Blue",
+          "description": "A sunny and cheerful combo that reminds us of the sky and the sun.",
+          "clothing_suggestions": [
+            "Blue jeans with a yellow blouse",
+            "Yellow sundress with a blue cardigan",
+            "Blue shorts with a yellow tank top"
+          ]
+        },
+        {
+          "name": "Yellow and Pink",
+          "description": "A sweet and feminine combo that exudes happiness and romance.",
+          "clothing_suggestions": [
+            "Pink skirt with a yellow top",
+            "Yellow dress with pink accessories",
+            "Pink and yellow floral print outfit"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Green",
+      "suitable_combinations": [
+        {
+          "name": "Green and White",
+          "description": "A fresh and natural combo that evokes growth, health, and harmony.",
+          "clothing_suggestions": [
+            "White dress with green accents",
+            "Green blouse with white pants",
+            "White shirt with green skirt"
+          ]
+        },
+        {
+          "name": "Green and Brown",
+          "description": "An earthy and cozy combo that reflects nature, stability, and warmth.",
+          "clothing_suggestions": [
+            "Brown sweater with green leggings",
+            "Green and brown plaid shirt with brown boots",
+            "Brown pants with a green top"
+          ]
+        },
+        {
+          "name": "Green and Yellow",
+          "description": "A bright and optimistic combo that conveys energy, creativity, and positivity.",
+          "clothing_suggestions": [
+            "Yellow dress with green accessories",
+            "Green skirt with a yellow blouse",
+            "Yellow and green patterned outfit"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blue",
+      "suitable_combinations": [
+        {
+          "name": "Blue and Orange",
+          "description": "A dynamic and contrasting combo that creates a balance between cool and warm tones.",
+          "clothing_suggestions": [
+            "Blue jeans with an orange top",
+            "Orange dress with blue shoes",
+            "Blue and orange patterned outfit"
+          ]
+        },
+        {
+          "name": "Blue and Pink",
+          "description": "A fun and playful combo that can range from subtle to bold, depending on the shades used.",
+          "clothing_suggestions": [
+            "Pink skirt with a blue blouse",
+            "Blue and pink striped top with denim shorts",
+            "Blue dress with pink accessories"
+          ]
+        },
+        {
+          "name": "Blue and Grey",
+          "description": "A sophisticated and elegant combo that conveys professionalism, trust, and reliability.",
+          "clothing_suggestions": [
+            "Grey suit with a blue tie or scarf",
+            "Blue dress with grey heels",
+            "Grey pants with a blue blouse"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Purple",
+      "suitable_combinations": [
+        {
+          "name": "Purple and Yellow",
+          "description": "A striking and lively combo that creates a sense of excitement, creativity, and joy.",
+          "clothing_suggestions": [
+            "Yellow skirt with a purple top",
+            "Purple dress with yellow accessories",
+            "Purple and yellow patterned outfit"
+          ]
+        },
+        {
+          "name": "Purple and Green",
+          "description": "A unique and whimsical combo that expresses imagination, mystery, and magic.",
+          "clothing_suggestions": [
+            "Green pants with a purple blouse",
+            "Purple and green patterned dress",
+            "Green jacket with a purple skirt"
+          ]
+        },
+        {
+          "name": "Purple and Silver",
+          "description": "A glamorous and luxurious combo that conveys elegance, sophistication, and royalty.",
+          "clothing_suggestions": [
+            "Silver gown with purple accents",
+            "Purple dress with silver jewelry",
+            "Purple and silver accessories"
+          ]
+        }
+      ]
+    }
+  ]
+}
