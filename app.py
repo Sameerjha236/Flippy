@@ -29,6 +29,9 @@ if PERSIST and os.path.exists("persist"):
     index = VectorStoreIndexWrapper(vectorstore=vectorstore)
 else:
     # Use this line if you only need data.txt
+
+    # loader = TextLoader("data/dog.txt")
+    # loader = TextLoader("data/products.txt")
     loader = DirectoryLoader("data/")
     if PERSIST:
         index = VectorstoreIndexCreator(
@@ -52,7 +55,7 @@ def index():
         answer = result["answer"]
         chat_history.append((query, answer))  # Append to global chat history
 
-    return render_template("index.html", query=query, chat_history=chat_history)
+    return render_template("blank.html", query=query, chat_history=chat_history)
 
 
 if __name__ == "__main__":
