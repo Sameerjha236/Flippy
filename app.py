@@ -29,7 +29,11 @@ if PERSIST and os.path.exists("persist"):
     index = VectorStoreIndexWrapper(vectorstore=vectorstore)
 else:
     # Use this line if you only need data.txt
+<<<<<<< HEAD
     # loader = TextLoader("data/dog.txt")
+=======
+    # loader = TextLoader("data/products.txt")
+>>>>>>> origin/main
     loader = DirectoryLoader("data/")
     if PERSIST:
         index = VectorstoreIndexCreator(
