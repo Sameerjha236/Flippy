@@ -347,8 +347,103 @@
             "Teal dress with grey heels",
             "Teal and grey scarf"
           ]
+        },
+    {
+      "name": "Mint Green",
+      "suitable_combinations": [
+        {
+          "name": "Mint Green and Peach",
+          "description": "A delicate and fresh combo that evokes a sense of tranquility and warmth.",
+          "clothing_suggestions": [
+            "Peach dress with mint green accessories",
+            "Mint green top with peach skirt",
+            "Mint green and peach patterned outfit"
+          ]
+        },
+        {
+          "name": "Mint Green and Lavender",
+          "description": "A pastel duo that creates a dreamy and whimsical look.",
+          "clothing_suggestions": [
+            "Lavender blouse with mint green pants",
+            "Mint green dress with lavender accents",
+            "Lavender and mint green accessories"
+          ]
+        },
+        {
+          "name": "Mint Green and Navy",
+          "description": "A fresh and nautical combo that combines a cool hue with a timeless color.",
+          "clothing_suggestions": [
+            "Navy blue skirt with mint green top",
+            "Mint green and navy striped dress",
+            "Navy blazer with mint green accessories"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coral",
+      "suitable_combinations": [
+        {
+          "name": "Coral and Gold",
+          "description": "A warm and luxurious combo that adds a touch of opulence to a vibrant hue.",
+          "clothing_suggestions": [
+            "Coral dress with gold jewelry",
+            "Gold accessories with a coral ensemble",
+            "Coral and gold patterned outfit"
+          ]
+        },
+        {
+          "name": "Coral and Navy",
+          "description": "A balanced and sophisticated combo that pairs a bright tone with a classic color.",
+          "clothing_suggestions": [
+            "Navy blue pantsuit with coral accents",
+            "Coral blouse with navy skirt",
+            "Navy and coral accessories"
+          ]
+        },
+        {
+          "name": "Coral and Grey",
+          "description": "A versatile and chic combo that adds a pop of color to a neutral palette.",
+          "clothing_suggestions": [
+            "Grey dress with coral accessories",
+            "Coral top with grey pants",
+            "Grey blazer with coral blouse"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Indigo",
+      "suitable_combinations": [
+        {
+          "name": "Indigo and Yellow",
+          "description": "A bold and lively combo that creates a vibrant and energetic look.",
+          "clothing_suggestions": [
+            "Yellow dress with indigo accents",
+            "Indigo top with yellow skirt",
+            "Yellow and indigo patterned outfit"
+          ]
+        },
+        {
+          "name": "Indigo and Coral",
+          "description": "A rich and captivating combo that balances a deep hue with a bright color.",
+          "clothing_suggestions": [
+            "Coral blouse with indigo pants",
+            "Indigo and coral patterned dress",
+            "Indigo accessories with a coral outfit"
+          ]
+        },
+        {
+          "name": "Indigo and Olive",
+          "description": "A natural and earthy combo that pairs a deep shade with a subdued color.",
+          "clothing_suggestions": [
+            "Olive green dress with indigo accents",
+            "Indigo blouse with olive pants",
+            "Indigo and olive accessories"
+          ]
         }
       ]
     }
   ]
 }
+

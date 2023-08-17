@@ -29,8 +29,8 @@ if PERSIST and os.path.exists("persist"):
     index = VectorStoreIndexWrapper(vectorstore=vectorstore)
 else:
     # Use this line if you only need data.txt
-    loader = TextLoader("data/data.txt")
-    # loader = DirectoryLoader("data/")
+    # loader = TextLoader("data/products.txt")
+    loader = DirectoryLoader("data/")
     if PERSIST:
         index = VectorstoreIndexCreator(
             vectorstore_kwargs={"persist_directory": "persist"}).from_loaders([loader])
