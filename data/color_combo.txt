@@ -253,7 +253,9 @@
             "Brown pants with a green top",
             "Green and brown accessories"
           ]
-        },
+        }
+      ]
+    },
     {
       "name": "Turquoise",
       "suitable_combinations": [
@@ -347,7 +349,9 @@
             "Teal dress with grey heels",
             "Teal and grey scarf"
           ]
-        },
+        }
+      ]
+    },
     {
       "name": "Mint Green",
       "suitable_combinations": [
@@ -446,4 +450,3 @@
     }
   ]
 }
-

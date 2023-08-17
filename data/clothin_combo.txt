@@ -1,0 +1,528 @@
+{
+  "tops": [
+    {
+      "clothing_item": "White T-shirt",
+      "bottoms": ["Blue Jeans", "Black Leggings"],
+      "accessories": ["Statement Necklace", "Baseball Cap"],
+      "shoes": ["Sneakers", "Flip-flops"]
+    },
+    {
+      "clothing_item": "Button-up Blouse",
+      "bottoms": ["Pencil Skirt", "High-waisted Trousers"],
+      "accessories": ["Pearl Earrings", "Tote Bag"],
+      "shoes": ["Heeled Sandals", "Loafers"]
+    },
+    {
+      "clothing_item": "Sweater",
+      "bottoms": ["Corduroy Pants", "Distressed Jeans"],
+      "accessories": ["Beanie", "Chunky Scarf"],
+      "shoes": ["Ankle Boots", "Sneakers"]
+    },
+    {
+      "clothing_item": "Off-shoulder Top",
+      "bottoms": ["Midi Skirt", "Cropped Jeans"],
+      "accessories": ["Choker Necklace", "Clutch Purse"],
+      "shoes": ["Strappy Heels", "Sandal Flats"]
+    },
+    {
+      "clothing_item": "Graphic Tee",
+      "bottoms": ["Denim Shorts", "Cargo Pants"],
+      "accessories": ["Baseball Cap", "Crossbody Bag"],
+      "shoes": ["High-top Sneakers", "Slip-on Shoes"]
+    },
+    {
+      "clothing_item": "Striped Sweater",
+      "bottoms": ["Black Jeans", "A-line Skirt"],
+      "accessories": ["Scarf", "Beanie"],
+      "shoes": ["Ankle Boots", "Platform Sneakers"]
+    },
+    {
+      "clothing_item": "Tank Top",
+      "bottoms": ["Wide-leg Trousers", "Denim Shorts"],
+      "accessories": ["Layered Necklace", "Fedora Hat"],
+      "shoes": ["Mules", "Sandals"]
+    },
+    {
+      "clothing_item": "Bardot Blouse",
+      "bottoms": ["Floral Skirt", "Wide-leg Pants"],
+      "accessories": ["Statement Earrings", "Clutch"],
+      "shoes": ["Block Heels", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "Mock Neck Top",
+      "bottoms": ["High-waisted Jeans", "Culottes"],
+      "accessories": ["Chain Necklace", "Belt Bag"],
+      "shoes": ["Ankle Boots", "Sneakers"]
+    },
+    {
+      "clothing_item": "Cropped Sweater",
+      "bottoms": ["Pleated Skirt", "Leather Leggings"],
+      "accessories": ["Beanie", "Chunky Bracelet"],
+      "shoes": ["Chelsea Boots", "Platform Sneakers"]
+    },
+    {
+      "clothing_item": "V-neck Blouse",
+      "bottoms": ["Wide-leg Jeans", "Mini Skirt"],
+      "accessories": ["Long Pendant Necklace", "Satchel Bag"],
+      "shoes": ["Block Heels", "Mules"]
+    },
+    {
+      "clothing_item": "Oversized Sweater",
+      "bottoms": ["Leggings", "Pleated Trousers"],
+      "accessories": ["Beanie", "Oversized Scarf"],
+      "shoes": ["Ankle Boots", "Sneakers"]
+    },
+    {
+      "clothing_item": "Ruffled Tank Top",
+      "bottoms": ["High-waisted Shorts", "Cropped Jeans"],
+      "accessories": ["Statement Earrings", "Straw Hat"],
+      "shoes": ["Wedge Sandals", "Espadrilles"]
+    },
+    {
+      "clothing_item": "Peplum Blouse",
+      "bottoms": ["Fitted Skirt", "Wide-leg Pants"],
+      "accessories": ["Belt", "Clutch Purse"],
+      "shoes": ["Pointed Flats", "Heeled Sandals"]
+    },
+    {
+      "clothing_item": "Lace Camisole",
+      "bottoms": ["Paperbag Waist Shorts", "Flared Skirt"],
+      "accessories": ["Choker Necklace", "Cuff Bracelet"],
+      "shoes": ["Strappy Heels", "Mules"]
+    },
+    {
+      "clothing_item": "Oversized Blazer",
+      "bottoms": ["Tailored Trousers", "Midi Skirt"],
+      "accessories": ["Belt", "Tote Bag"],
+      "shoes": ["Pointed Flats", "Loafers"]
+    },
+    {
+      "clothing_item": "Cropped Button-up Shirt",
+      "bottoms": ["High-waisted Jeans", "Leather Leggings"],
+      "accessories": ["Statement Necklace", "Sunglasses"],
+      "shoes": ["Ankle Boots", "White Sneakers"]
+    },
+    {
+      "clothing_item": "Cowl Neck Sweater",
+      "bottoms": ["A-line Skirt", "Cropped Trousers"],
+      "accessories": ["Beret", "Long Pendant Necklace"],
+      "shoes": ["Heeled Boots", "Ballet Flats"]
+    },
+    {
+      "clothing_item": "Ruffled Blouse",
+      "bottoms": ["Midi Skirt", "Wide-leg Pants"],
+      "accessories": ["Statement Earrings", "Clutch Purse"],
+      "shoes": ["Block Heels", "Platform Sandals"]
+    },
+    {
+      "clothing_item": "Wrap Front Blouse",
+      "bottoms": ["Pleated Skirt", "Cigarette Trousers"],
+      "accessories": ["Belt", "Statement Ring"],
+      "shoes": ["Pointed Flats", "Strappy Heels"]
+    },
+    {
+      "clothing_item": "Cropped Hoodie",
+      "bottoms": ["High-waisted Jeans", "Sweatpants"],
+      "accessories": ["Bucket Hat", "Crossbody Bag"],
+      "shoes": ["Chunky Sneakers", "Slides"]
+    },
+    {
+      "clothing_item": "Lace Bodysuit",
+      "bottoms": ["Leather Mini Skirt", "Wide-leg Pants"],
+      "accessories": ["Layered Necklace", "Clutch"],
+      "shoes": ["Strappy Heels", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "Tie-front Blouse",
+      "bottoms": ["Paperbag Shorts", "Pleated Skirt"],
+      "accessories": ["Straw Hat", "Beaded Bracelet"],
+      "shoes": ["Wedge Sandals", "Espadrilles"]
+    },
+    {
+      "clothing_item": "Turtleneck Crop Top",
+      "bottoms": ["High-waisted Jeans", "Wide-leg Pants"],
+      "accessories": ["Chain Necklace", "Beret"],
+      "shoes": ["Ankle Boots", "Platform Sneakers"]
+    },
+    {
+      "clothing_item": "Fitted Turtleneck",
+      "bottoms": ["Corduroy Skirt", "Cropped Trousers"],
+      "accessories": ["Statement Earrings", "Tote Bag"],
+      "shoes": ["Knee-high Boots", "Loafers"]
+    },
+    {
+      "clothing_item": "V-neck Sweater",
+      "bottoms": ["Midi Skirt", "High-waisted Jeans"],
+      "accessories": ["Layered Necklace", "Crossbody Bag"],
+      "shoes": ["Ankle Boots", "Mules"]
+    },
+    {
+      "clothing_item": "One-shoulder Top",
+      "bottoms": ["Pencil Skirt", "Cropped Trousers"],
+      "accessories": ["Statement Earrings", "Clutch"],
+      "shoes": ["Heeled Sandals", "Pointed Flats"]
+    },
+    {
+      "clothing_item": "Lace Trim Camisole",
+      "bottoms": ["Denim Shorts", "Leather Leggings"],
+      "accessories": ["Choker Necklace", "Crossbody Bag"],
+      "shoes": ["Ankle Boots", "Strappy Heels"]
+    },
+    {
+      "clothing_item": "Halter Neck Top",
+      "bottoms": ["Wide-leg Trousers", "Mini Skirt"],
+      "accessories": ["Statement Necklace", "Beaded Bracelet"],
+      "shoes": ["Wedge Sandals", "Platform Sneakers"]
+    },
+    {
+      "clothing_item": "Wrap Blouse",
+      "bottoms": ["Flared Skirt", "High-waisted Jeans"],
+      "accessories": ["Belt", "Tote Bag"],
+      "shoes": ["Block Heels", "Loafers"]
+    },
+    {
+      "clothing_item": "Tie-front Crop Top",
+      "bottoms": ["Pleated Skirt", "Wide-leg Trousers"],
+      "accessories": ["Long Pendant Necklace", "Clutch Purse"],
+      "shoes": ["Strappy Heels", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "Ruched Sleeve Blouse",
+      "bottoms": ["Cigarette Trousers", "Denim Shorts"],
+      "accessories": ["Statement Earrings", "Belt"],
+      "shoes": ["Pointed Flats", "Sneakers"]
+    },
+    {
+      "clothing_item": "Bell Sleeve Top",
+      "bottoms": ["A-line Skirt", "High-waisted Jeans"],
+      "accessories": ["Layered Necklace", "Beret"],
+      "shoes": ["Ankle Boots", "Platform Sneakers"]
+    },
+    {
+      "clothing_item": "Puff Sleeve Blouse",
+      "bottoms": ["Cropped Trousers", "Corduroy Skirt"],
+      "accessories": ["Pearl Hairpin", "Clutch"],
+      "shoes": ["Block Heels", "Mules"]
+    },
+    {
+      "clothing_item": "Cold Shoulder Top",
+      "bottoms": ["Flared Skirt", "Black Leggings"],
+      "accessories": ["Statement Necklace", "Crossbody Bag"],
+      "shoes": ["Strappy Heels", "Sneakers"]
+    },
+    {
+      "clothing_item": "Asymmetrical Top",
+      "bottoms": ["Cropped Trousers", "Midi Skirt"],
+      "accessories": ["Chain Necklace", "Tote Bag"],
+      "shoes": ["Pointed Flats", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "Tie-neck Blouse",
+      "bottoms": ["Pencil Skirt", "High-waisted Jeans"],
+      "accessories": ["Beaded Earrings", "Clutch Purse"],
+      "shoes": ["Heeled Sandals", "Loafers"]
+    },
+    {
+      "clothing_item": "Lace Halter Top",
+      "bottoms": ["Wide-leg Trousers", "Denim Shorts"],
+      "accessories": ["Choker Necklace", "Sunglasses"],
+      "shoes": ["Wedge Sandals", "Platform Sneakers"]
+    },
+    {
+      "clothing_item": "Wrap-front Crop Top",
+      "bottoms": ["Corduroy Skirt", "Flared Skirt"],
+      "accessories": ["Belt", "Clutch"],
+      "shoes": ["Block Heels", "Strappy Heels"]
+    },
+    {
+      "clothing_item": "Smocked Top",
+      "bottoms": ["Wide-leg Jeans", "Cropped Trousers"],
+      "accessories": ["Layered Necklace", "Beret"],
+      "shoes": ["Ankle Boots", "Platform Sneakers"]
+    },
+    {
+      "clothing_item": "Tie-back Blouse",
+      "bottoms": ["Pleated Skirt", "Black Leggings"],
+      "accessories": ["Statement Earrings", "Crossbody Bag"],
+      "shoes": ["Strappy Heels", "Sneakers"]
+    },
+    {
+      "clothing_item": "Halter Neck Crop Top",
+      "bottoms": ["Midi Skirt", "High-waisted Jeans"],
+      "accessories": ["Pearl Necklace", "Tote Bag"],
+      "shoes": ["Heeled Sandals", "Mules"]
+    },
+    {
+      "clothing_item": "Keyhole Blouse",
+      "bottoms": ["Culottes", "Denim Shorts"],
+      "accessories": ["Chain Necklace", "Sunglasses"],
+      "shoes": ["Pointed Flats", "Platform Sneakers"]
+    },
+    {
+      "clothing_item": "Asymmetrical Crop Top",
+      "bottoms": ["Pencil Skirt", "Corduroy Skirt"],
+      "accessories": ["Statement Earrings", "Clutch Purse"],
+      "shoes": ["Block Heels", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "Peasant Top",
+      "bottoms": ["Wide-leg Trousers", "Flared Skirt"],
+      "accessories": ["Layered Necklace", "Beaded Bracelet"],
+      "shoes": ["Strappy Heels", "Platform Sandals"]
+    }
+  ],
+  "bottoms": [
+    {
+      "clothing_item": "Blue Jeans",
+      "tops": ["White T-shirt", "Striped Sweater"],
+      "accessories": ["Belt", "Beanie"],
+      "shoes": ["Sneakers", "Ankle Boots"]
+    },
+    {
+      "clothing_item": "Black Leggings",
+      "tops": ["Long Cardigan", "Oversized T-shirt"],
+      "accessories": ["Scarf", "Backpack"],
+      "shoes": ["Running Shoes", "Slip-on Sneakers"]
+    },
+    {
+      "clothing_item": "Pencil Skirt",
+      "tops": ["Button-up Blouse", "Cropped Sweater"],
+      "accessories": ["Belt", "Statement Necklace"],
+      "shoes": ["Heeled Pumps", "Ankle Boots"]
+    },
+    {
+      "clothing_item": "High-waisted Trousers",
+      "tops": ["Mock Neck Top", "Blazer"],
+      "accessories": ["Belt", "Tote Bag"],
+      "shoes": ["Loafers", "Mules"]
+    },
+    {
+      "clothing_item": "Distressed Jeans",
+      "tops": ["Sweater", "Graphic Tee"],
+      "accessories": ["Belt", "Beanie"],
+      "shoes": ["Ankle Boots", "Sneakers"]
+    },
+    {
+      "clothing_item": "Cargo Pants",
+      "tops": ["Camouflage Jacket", "Basic Tank Top"],
+      "accessories": ["Military Cap", "Utility Backpack"],
+      "shoes": ["Combat Boots", "Sneakers"]
+    },
+    {
+      "clothing_item": "A-line Skirt",
+      "tops": ["Striped Sweater", "Button-up Shirt"],
+      "accessories": ["Belt", "Crossbody Bag"],
+      "shoes": ["Ballet Flats", "Ankle Boots"]
+    },
+    {
+      "clothing_item": "Denim Shorts",
+      "tops": ["White Crop Top", "Off-shoulder Blouse"],
+      "accessories": ["Sunglasses", "Straw Tote"],
+      "shoes": ["Sandals", "Slip-on Sneakers"]
+    },
+    {
+      "clothing_item": "Midi Skirt",
+      "tops": ["Sleeveless Blouse", "Tank Top"],
+      "accessories": ["Statement Belt", "Clutch Purse"],
+      "shoes": ["Strappy Heels", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "Cropped Jeans",
+      "tops": ["Lace Camisole", "Graphic Tee"],
+      "accessories": ["Choker Necklace", "Tassel Earrings"],
+      "shoes": ["Sneakers", "Slide Sandals"]
+    },
+    {
+      "clothing_item": "Wide-leg Trousers",
+      "tops": ["Bardot Blouse", "Mock Neck Top"],
+      "accessories": ["Statement Earrings", "Tote Bag"],
+      "shoes": ["Block Heels", "Sneakers"]
+    },
+    {
+      "clothing_item": "Corduroy Pants",
+      "tops": ["Sweater", "Button-up Blouse"],
+      "accessories": ["Beanie", "Chunky Scarf"],
+      "shoes": ["Ankle Boots", "Loafers"]
+    },
+    {
+      "clothing_item": "Culottes",
+      "tops": ["Tank Top", "Turtleneck Crop Top"],
+      "accessories": ["Long Pendant Necklace", "Beret"],
+      "shoes": ["Wedge Sandals", "Sneakers"]
+    },
+    {
+      "clothing_item": "Leather Leggings",
+      "tops": ["Off-shoulder Top", "Lace Trim Camisole"],
+      "accessories": ["Choker Necklace", "Crossbody Bag"],
+      "shoes": ["Strappy Heels", "Ankle Boots"]
+    },
+    {
+      "clothing_item": "Paperbag Waist Shorts",
+      "tops": ["Ruffled Tank Top", "Tie-front Crop Top"],
+      "accessories": ["Statement Earrings", "Straw Hat"],
+      "shoes": ["Wedge Sandals", "Platform Sneakers"]
+    },
+    {
+      "clothing_item": "Floral Skirt",
+      "tops": ["Bardot Blouse", "Wrap Blouse"],
+      "accessories": ["Statement Earrings", "Clutch Purse"],
+      "shoes": ["Block Heels", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "High-waisted Shorts",
+      "tops": ["Striped Sweater", "Ruched Sleeve Blouse"],
+      "accessories": ["Belt", "Bucket Hat"],
+      "shoes": ["Ankle Boots", "Sneakers"]
+    },
+    {
+      "clothing_item": "Tailored Trousers",
+      "tops": ["Oversized Blazer", "V-neck Sweater"],
+      "accessories": ["Statement Belt", "Tote Bag"],
+      "shoes": ["Pointed Flats", "Loafers"]
+    },
+    {
+      "clothing_item": "Pleated Skirt",
+      "tops": ["Cropped Sweater", "Wrap-front Crop Top"],
+      "accessories": ["Belt", "Clutch"],
+      "shoes": ["Block Heels", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "Mini Skirt",
+      "tops": ["One-shoulder Top", "Halter Neck Crop Top"],
+      "accessories": ["Long Pendant Necklace", "Tote Bag"],
+      "shoes": ["Heeled Sandals", "Platform Sneakers"]
+    },
+    {
+      "clothing_item": "Plaid Trousers",
+      "tops": ["Button-up Blouse", "Graphic Tee"],
+      "accessories": ["Belt", "Beanie"],
+      "shoes": ["Ankle Boots", "Sneakers"]
+    },
+    {
+      "clothing_item": "Wide-leg Jeans",
+      "tops": ["V-neck Blouse", "Cropped Hoodie"],
+      "accessories": ["Statement Earrings", "Crossbody Bag"],
+      "shoes": ["Platform Sneakers", "Loafers"]
+    },
+    {
+      "clothing_item": "Cropped Trousers",
+      "tops": ["Mock Neck Top", "Bell Sleeve Top"],
+      "accessories": ["Belt", "Tote Bag"],
+      "shoes": ["Ankle Boots", "Mules"]
+    },
+    {
+      "clothing_item": "Black Skirt",
+      "tops": ["Cowl Neck Sweater", "Off-shoulder Blouse"],
+      "accessories": ["Statement Belt", "Clutch"],
+      "shoes": ["Ankle Boots", "Strappy Heels"]
+    },
+    {
+      "clothing_item": "Khaki Shorts",
+      "tops": ["Tank Top", "Oversized Sweater"],
+      "accessories": ["Beanie", "Backpack"],
+      "shoes": ["Sneakers", "Ankle Boots"]
+    },
+    {
+      "clothing_item": "Corduroy Skirt",
+      "tops": ["Striped Sweater", "Wrap Blouse"],
+      "accessories": ["Belt", "Clutch Purse"],
+      "shoes": ["Block Heels", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "Flared Jeans",
+      "tops": ["Ruffled Blouse", "Graphic Tee"],
+      "accessories": ["Statement Earrings", "Belt"],
+      "shoes": ["Platform Sandals", "Sneakers"]
+    },
+    {
+      "clothing_item": "Paperbag Waist Trousers",
+      "tops": ["Cropped Sweater", "Tie-neck Blouse"],
+      "accessories": ["Statement Belt", "Tote Bag"],
+      "shoes": ["Pointed Flats", "Mules"]
+    },
+    {
+      "clothing_item": "Fitted Skirt",
+      "tops": ["Bardot Blouse", "V-neck Sweater"],
+      "accessories": ["Statement Earrings", "Clutch"],
+      "shoes": ["Block Heels", "Platform Sandals"]
+    },
+    {
+      "clothing_item": "Pleated Culottes",
+      "tops": ["Mock Neck Top", "Wrap-front Crop Top"],
+      "accessories": ["Belt", "Crossbody Bag"],
+      "shoes": ["Strappy Heels", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "Leather Mini Skirt",
+      "tops": ["Lace Bodysuit", "Striped Sweater"],
+      "accessories": ["Layered Necklace", "Clutch Purse"],
+      "shoes": ["Strappy Heels", "Ankle Boots"]
+    },
+    {
+      "clothing_item": "High-waisted Pants",
+      "tops": ["Button-up Blouse", "Cropped Hoodie"],
+      "accessories": ["Belt", "Sunglasses"],
+      "shoes": ["Platform Sneakers", "Loafers"]
+    },
+    {
+      "clothing_item": "Plaid Skirt",
+      "tops": ["Sweater", "Off-shoulder Blouse"],
+      "accessories": ["Beret", "Crossbody Bag"],
+      "shoes": ["Ankle Boots", "Strappy Heels"]
+    },
+    {
+      "clothing_item": "Cigarette Trousers",
+      "tops": ["Blazer", "Ruched Sleeve Blouse"],
+      "accessories": ["Statement Belt", "Belt Bag"],
+      "shoes": ["Pointed Flats", "Mules"]
+    },
+    {
+      "clothing_item": "Wide-leg Culottes",
+      "tops": ["Tank Top", "Striped Sweater"],
+      "accessories": ["Layered Necklace", "Beret"],
+      "shoes": ["Sneakers", "Platform Sandals"]
+    },
+    {
+      "clothing_item": "Floral Print Shorts",
+      "tops": ["Off-shoulder Top", "Graphic Tee"],
+      "accessories": ["Choker Necklace", "Straw Hat"],
+      "shoes": ["Wedge Sandals", "Sneakers"]
+    },
+    {
+      "clothing_item": "Corduroy Culottes",
+      "tops": ["Button-up Blouse", "Wrap Blouse"],
+      "accessories": ["Statement Earrings", "Clutch Purse"],
+      "shoes": ["Block Heels", "Wedge Sandals"]
+    },
+    {
+      "clothing_item": "Black Trousers",
+      "tops": ["Mock Neck Top", "V-neck Sweater"],
+      "accessories": ["Belt", "Tote Bag"],
+      "shoes": ["Pointed Flats", "Loafers"]
+    },
+    {
+      "clothing_item": "Cargo Shorts",
+      "tops": ["Sweater", "Ruffled Blouse"],
+      "accessories": ["Military Cap", "Crossbody Bag"],
+      "shoes": ["Combat Boots", "Sneakers"]
+    },
+    {
+      "clothing_item": "Faux Leather Leggings",
+      "tops": ["Lace Camisole", "Graphic Tee"],
+      "accessories": ["Choker Necklace", "Belt"],
+      "shoes": ["Ankle Boots", "Slide Sandals"]
+    },
+    {
+      "clothing_item": "Cropped Corduroy Pants",
+      "tops": ["Bardot Blouse", "Mock Neck Top"],
+      "accessories": ["Statement Earrings", "Tote Bag"],
+      "shoes": ["Block Heels", "Sneakers"]
+    },
+    {
+      "clothing_item": "Paperbag Waist Mini Skirt",
+      "tops": ["Striped Sweater", "Sleeveless Blouse"],
+      "accessories": ["Statement Belt", "Clutch"],
+      "shoes": ["Wedge Sandals", "Platform Sneakers"]
+    }
+  ]
+}

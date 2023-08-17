@@ -1,1975 +1,2328 @@
 [
+    {
+      "id": "5789261054",
+      "color": "Blue",
+      "clothing": "Denim Jacket",
+      "occasion": "Casual"
+    },
+    {
+      "id": "2410678539",
+      "color": "Red",
+      "clothing": "Plaid Flannel Shirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "9325184760",
+      "color": "White",
+      "clothing": "V-neck T-shirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "1408952637",
+      "color": "Black",
+      "clothing": "Leather Jacket",
+      "occasion": "Edgy"
+    },
+    {
+      "id": "6793214850",
+      "color": "Yellow",
+      "clothing": "Sundress",
+      "occasion": "Summer"
+    },
+    {
+      "id": "5284391766",
+      "color": "Green",
+      "clothing": "Cargo Pants",
+      "occasion": "Casual"
+    },
+    {
+      "id": "7962850134",
+      "color": "Pink",
+      "clothing": "Hoodie",
+      "occasion": "Casual"
+    },
+    {
+      "id": "3610947258",
+      "color": "Gray",
+      "clothing": "Knit Sweater",
+      "occasion": "Cold Weather"
+    },
+    {
+      "id": "7845239610",
+      "color": "Purple",
+      "clothing": "Silk Blouse",
+      "occasion": "Elegant"
+    },
+    {
+      "id": "2496708315",
+      "color": "Orange",
+      "clothing": "Jumpsuit",
+      "occasion": "Fashionable"
+    },
+    {
+      "id": "1387520496",
+      "color": "Brown",
+      "clothing": "Corduroy Pants",
+      "occasion": "Vintage"
+    },
+    {
+      "id": "8752036149",
+      "color": "Black",
+      "clothing": "Turtleneck",
+      "occasion": "Chic"
+    },
+    {
+      "id": "4809652173",
+      "color": "Blue",
+      "clothing": "Baseball Cap",
+      "occasion": "Sporty"
+    },
+    {
+      "id": "1029485367",
+      "color": "White",
+      "clothing": "Linen Shirt",
+      "occasion": "Summer"
+    },
+    {
+      "id": "6437912580",
+      "color": "Floral",
+      "clothing": "Maxi Dress",
+      "occasion": "Romantic"
+    },
+    {
+      "id": "3075148962",
+      "color": "Camouflage",
+      "clothing": "Cargo Shorts",
+      "occasion": "Rugged"
+    },
+    {
+      "id": "6198245730",
+      "color": "Polka Dot",
+      "clothing": "Blouse",
+      "occasion": "Playful"
+    },
+    {
+      "id": "8526971304",
+      "color": "Denim",
+      "clothing": "Overalls",
+      "occasion": "Trendy"
+    },
+    {
+      "id": "4601395827",
+      "color": "Striped",
+      "clothing": "Crew Neck Sweater",
+      "occasion": "Warm"
+    },
+    {
+      "id": "1798265430",
+      "color": "Plaid",
+      "clothing": "Skirt",
+      "occasion": "Versatile"
+    },
+    {
+      "id": "3096827451",
+      "color": "Black",
+      "clothing": "Leather Pants",
+      "occasion": "Bold"
+    },
+    {
+      "id": "5174926083",
+      "color": "Red",
+      "clothing": "Puffer Jacket",
+      "occasion": "Cold Weather"
+    },
+    {
+      "id": "8351072694",
+      "color": "Blue",
+      "clothing": "Chambray Shirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "2763850149",
+      "color": "Green",
+      "clothing": "Cargo Shorts",
+      "occasion": "Outdoor"
+    },
+    {
+      "id": "4028197635",
+      "color": "Yellow",
+      "clothing": "Raincoat",
+      "occasion": "Rainy Days"
+    },
+    {
+      "id": "1487520936",
+      "color": "White",
+      "clothing": "Crochet Top",
+      "occasion": "Boho"
+    },
+    {
+      "id": "6902814753",
+      "color": "Brown",
+      "clothing": "Suede Skirt",
+      "occasion": "Sophisticated"
+    },
+    {
+      "id": "5124309687",
+      "color": "Pink",
+      "clothing": "Bomber Jacket",
+      "occasion": "Trendy"
+    },
+    {
+      "id": "2659038147",
+      "color": "Striped",
+      "clothing": "Tank Top",
+      "occasion": "Layering"
+    },
+    {
+      "id": "9671042385",
+      "color": "Floral",
+      "clothing": "Wrap Dress",
+      "occasion": "Elegant"
+    },
+    {
+      "id": "3702165849",
+      "color": "Purple",
+      "clothing": "Velvet Blazer",
+      "occasion": "Refined"
+    },
+    {
+      "id": "5184327690",
+      "color": "Gray",
+      "clothing": "Jogging Pants",
+      "occasion": "Lounging"
+    },
+    {
+      "id": "6092754813",
+      "color": "Orange",
+      "clothing": "Crop Top",
+      "occasion": "Summer"
+    },
+    {
+      "id": "9371685240",
+      "color": "Black",
+      "clothing": "Formal Suit",
+      "occasion": "Special Occasions"
+    },
+    {
+      "id": "1429806357",
+      "color": "Blue",
+      "clothing": "Jean Shorts",
+      "occasion": "Summer"
+    },
+    {
+      "id": "7860159423",
+      "color": "White",
+      "clothing": "Button-Up Shirt",
+      "occasion": "Versatile"
+    },
+    {
+      "id": "4596138027",
+      "color": "Green",
+      "clothing": "Sweater Dress",
+      "occasion": "Cold Weather"
+    },
+    {
+      "id": "3250714896",
+      "color": "Red",
+      "clothing": "Plaid Skirt",
+      "occasion": "Holiday"
+    },
+    {
+      "id": "7804692351",
+      "color": "Yellow",
+      "clothing": "Track Jacket",
+      "occasion": "Sporty"
+    },
+    {
+      "id": "2047853169",
+      "color": "Brown",
+      "clothing": "Corduroy Jacket",
+      "occasion": "Layering"
+    },
+    {
+      "id": "9304271658",
+      "color": "Polka Dot",
+      "clothing": "Skirt",
+      "occasion": "Retro"
+    },
+    {
+      "id": "6715482390",
+      "color": "Denim",
+      "clothing": "Button-Up Shirt",
+      "occasion": "Relaxed"
+    },
+    {
+      "id": "8904713562",
+      "color": "Striped",
+      "clothing": "Bikini",
+      "occasion": "Swimwear"
+    },
+    {
+      "id": "2364875190",
+      "color": "Plaid",
+      "clothing": "Flannel Dress",
+      "occasion": "Fall"
+    },
+    {
+      "id": "4036519728",
+      "color": "Black",
+      "clothing": "High-Waisted Jeans",
+      "occasion": "Casual"
+    },
+    {
+      "id": "7258904136",
+      "color": "Red",
+      "clothing": "Peacoat",
+      "occasion": "Cold Weather"
+    },
+    {
+      "id": "1584729063",
+      "color": "Blue",
+      "clothing": "Cargo Vest",
+      "occasion": "Layering"
+    },
+    {
+      "id": "3094875261",
+      "color": "Green",
+      "clothing": "Turtleneck Sweater",
+      "occasion": "Winter"
+    },
+    {
+      "id": "6318947205",
+      "color": "Pink",
+      "clothing": "Satin Blouse",
+      "occasion": "Elegant"
+    },
+    {
+      "id": "2946078513",
+      "color": "Gray",
+      "clothing": "Sweatpants",
+      "occasion": "Relaxed"
+    },
+    {
+      "id": "8456309127",
+      "color": "Orange",
+      "clothing": "Corduroy Skirt",
+      "occasion": "Retro"
+    },
+    {
+      "id": "9614780253",
+      "color": "Brown",
+      "clothing": "Suede Jacket",
+      "occasion": "Chic"
+    },
+    {
+      "id": "5721486903",
+      "color": "Yellow",
+      "clothing": "Off-Shoulder Top",
+      "occasion": "Sunny"
+    },
+    {
+      "id": "2974583106",
+      "color": "Black",
+      "clothing": "Chiffon Dress",
+      "occasion": "Formal"
+    },
+    {
+      "id": "6019847253",
+      "color": "Blue",
+      "clothing": "Graphic T-shirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "8746503129",
+      "color": "White",
+      "clothing": "Linen Pants",
+      "occasion": "Summer"
+    },
+    {
+      "id": "3192456870",
+      "color": "Floral",
+      "clothing": "Headband",
+      "occasion": "Whimsical"
+    },
+    {
+      "id": "5401698273",
+      "color": "Camouflage",
+      "clothing": "Bomber Jacket",
+      "occasion": "Urban"
+    },
+    {
+      "id": "9274510836",
+      "color": "Polka Dot",
+      "clothing": "Pants",
+      "occasion": "Statement"
+    },
+    {
+      "id": "5789261054",
+      "color": "Blue",
+      "clothing": "Denim Jacket",
+      "occasion": "Casual"
+    },
+    {
+      "id": "2410678539",
+      "color": "Red",
+      "clothing": "Plaid Flannel Shirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "9325184760",
+      "color": "White",
+      "clothing": "V-neck T-shirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "1408952637",
+      "color": "Black",
+      "clothing": "Leather Jacket",
+      "occasion": "Edgy"
+    },
+    {
+      "id": "6793214850",
+      "color": "Yellow",
+      "clothing": "Sundress",
+      "occasion": "Summer"
+    },
+    {
+      "id": "5284391766",
+      "color": "Green",
+      "clothing": "Cargo Pants",
+      "occasion": "Casual"
+    },
+    {
+      "id": "7962850134",
+      "color": "Pink",
+      "clothing": "Hoodie",
+      "occasion": "Casual"
+    },
+    {
+      "id": "3610947258",
+      "color": "Gray",
+      "clothing": "Knit Sweater",
+      "occasion": "Cold Weather"
+    },
+    {
+      "id": "7845239610",
+      "color": "Purple",
+      "clothing": "Silk Blouse",
+      "occasion": "Elegant"
+    },
+    {
+      "id": "2496708315",
+      "color": "Orange",
+      "clothing": "Jumpsuit",
+      "occasion": "Fashionable"
+    },
+    {
+      "id": "1387520496",
+      "color": "Brown",
+      "clothing": "Corduroy Pants",
+      "occasion": "Vintage"
+    },
+    {
+      "id": "8752036149",
+      "color": "Black",
+      "clothing": "Turtleneck",
+      "occasion": "Chic"
+    },
+    {
+      "id": "4809652173",
+      "color": "Blue",
+      "clothing": "Baseball Cap",
+      "occasion": "Sporty"
+    },
+    {
+      "id": "1029485367",
+      "color": "White",
+      "clothing": "Linen Shirt",
+      "occasion": "Summer"
+    },
+    {
+      "id": "6437912580",
+      "color": "Floral",
+      "clothing": "Maxi Dress",
+      "occasion": "Romantic"
+    },
+    {
+      "id": "3075148962",
+      "color": "Camouflage",
+      "clothing": "Cargo Shorts",
+      "occasion": "Rugged"
+    },
+    {
+      "id": "6198245730",
+      "color": "Polka Dot",
+      "clothing": "Blouse",
+      "occasion": "Playful"
+    },
+    {
+      "id": "8526971304",
+      "color": "Denim",
+      "clothing": "Overalls",
+      "occasion": "Trendy"
+    },
+    {
+      "id": "4601395827",
+      "color": "Striped",
+      "clothing": "Crew Neck Sweater",
+      "occasion": "Warm"
+    },
+    {
+      "id": "1798265430",
+      "color": "Plaid",
+      "clothing": "Skirt",
+      "occasion": "Versatile"
+    },
+    {
+      "id": "3096827451",
+      "color": "Black",
+      "clothing": "Leather Pants",
+      "occasion": "Bold"
+    },
+    {
+      "id": "5174926083",
+      "color": "Red",
+      "clothing": "Puffer Jacket",
+      "occasion": "Cold Weather"
+    },
+    {
+      "id": "8351072694",
+      "color": "Blue",
+      "clothing": "Chambray Shirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "2763850149",
+      "color": "Green",
+      "clothing": "Cargo Shorts",
+      "occasion": "Outdoor"
+    },
+    {
+      "id": "4028197635",
+      "color": "Yellow",
+      "clothing": "Raincoat",
+      "occasion": "Rainy Days"
+    },
+    {
+      "id": "1487520936",
+      "color": "White",
+      "clothing": "Crochet Top",
+      "occasion": "Boho"
+    },
+    {
+      "id": "6902814753",
+      "color": "Brown",
+      "clothing": "Suede Skirt",
+      "occasion": "Sophisticated"
+    },
+    {
+      "id": "5124309687",
+      "color": "Pink",
+      "clothing": "Bomber Jacket",
+      "occasion": "Trendy"
+    },
+    {
+      "id": "2659038147",
+      "color": "Striped",
+      "clothing": "Tank Top",
+      "occasion": "Layering"
+    },
+    {
+      "id": "9671042385",
+      "color": "Floral",
+      "clothing": "Wrap Dress",
+      "occasion": "Elegant"
+    },
+    {
+      "id": "3702165849",
+      "color": "Purple",
+      "clothing": "Velvet Blazer",
+      "occasion": "Refined"
+    },
+    {
+      "id": "5184327690",
+      "color": "Gray",
+      "clothing": "Jogging Pants",
+      "occasion": "Lounging"
+    },
+    {
+      "id": "6092754813",
+      "color": "Orange",
+      "clothing": "Crop Top",
+      "occasion": "Summer"
+    },
+    {
+      "id": "9371685240",
+      "color": "Black",
+      "clothing": "Formal Suit",
+      "occasion": "Special Occasions"
+    },
+    {
+      "id": "1429806357",
+      "color": "Blue",
+      "clothing": "Jean Shorts",
+      "occasion": "Summer"
+    },
+    {
+      "id": "7860159423",
+      "color": "White",
+      "clothing": "Button-Up Shirt",
+      "occasion": "Versatile"
+    },
+    {
+      "id": "4596138027",
+      "color": "Green",
+      "clothing": "Sweater Dress",
+      "occasion": "Cold Weather"
+    },
+    {
+      "id": "3250714896",
+      "color": "Red",
+      "clothing": "Plaid Skirt",
+      "occasion": "Holiday"
+    },
+    {
+      "id": "7804692351",
+      "color": "Yellow",
+      "clothing": "Track Jacket",
+      "occasion": "Sporty"
+    },
+    {
+      "id": "9842157036",
+      "color": "Brown",
+      "clothing": "Corduroy Jacket",
+      "occasion": "Layering"
+    },
+    {
+      "id": "5728391046",
+      "color": "Pink",
+      "clothing": "Midi Skirt",
+      "occasion": "Versatile"
+    },
+    {
+      "id": "1925834760",
+      "color": "Black",
+      "clothing": "Hooded Sweatshirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "6459812370",
+      "color": "Blue",
+      "clothing": "Linen Pants",
+      "occasion": "Summer"
+    },
+    {
+      "id": "3197285406",
+      "color": "White",
+      "clothing": "Lace Blouse",
+      "occasion": "Romantic"
+    },
+    {
+      "id": "8462901357",
+      "color": "Floral",
+      "clothing": "Romper",
+      "occasion": "Playful"
+    },
+    {
+      "id": "5306174892",
+      "color": "Camouflage",
+      "clothing": "Print Pants",
+      "occasion": "Edgy"
+    },
+    {
+      "id": "2915864037",
+      "color": "Polka Dot",
+      "clothing": "Dress",
+      "occasion": "Timeless"
+    },
+    {
+      "id": "6758912043",
+      "color": "Denim",
+      "clothing": "Mini Skirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "4826195730",
+      "color": "Striped",
+      "clothing": "Cardigan",
+      "occasion": "Layering"
+    },
+    {
+      "id": "3614952780",
+      "color": "Plaid",
+      "clothing": "Scarf",
+      "occasion": "Cold Weather"
+    },
+    {
+      "id": "2095346817",
+      "color": "Black",
+      "clothing": "Leggings",
+      "occasion": "Casual"
+    },
+    {
+      "id": "1567289034",
+      "color": "Red",
+      "clothing": "Flannel Hoodie",
+      "occasion": "Casual"
+    },
+    {
+      "id": "8205634179",
+      "color": "Blue",
+      "clothing": "Pencil Skirt",
+      "occasion": "Office"
+    },
+    {
+      "id": "4078235196",
+      "color": "Green",
+      "clothing": "Bomber Jacket",
+      "occasion": "Modern"
+    },
+    {
+      "id": "2367158094",
+      "color": "Pink",
+      "clothing": "Denim Shorts",
+      "occasion": "Summer"
+    },
+    {
+      "id": "6789321405",
+      "color": "Gray",
+      "clothing": "Turtleneck Sweater",
+      "occasion": "Layering"
+    },
+    {
+      "id": "5028196743",
+      "color": "Orange",
+      "clothing": "Maxi Dress",
+      "occasion": "Elegant"
+    },
+    {
+      "id": "3408952167",
+      "color": "Brown",
+      "clothing": "Leather Boots",
+      "occasion": "Versatile"
+    },
+    {
+      "id": "1569032478",
+      "color": "Yellow",
+      "clothing": "Button-Up Blouse",
+      "occasion": "Cheerful"
+    },
+    {
+      "id": "4206931587",
+      "color": "Black",
+      "clothing": "Wrap Top",
+      "occasion": "Versatile"
+    },
+    {
+      "id": "6973158042",
+      "color": "Blue",
+      "clothing": "Rain Jacket",
+      "occasion": "Rainy Days"
+    },
+    {
+      "id": "8602159473",
+      "color": "White",
+      "clothing": "Boho Dress",
+      "occasion": "Breezy"
+    },
+    {
+      "id": "4127586903",
+      "color": "Floral",
+      "clothing": "Kimono",
+      "occasion": "Flair"
+    },
+    {
+      "id": "5309462178",
+      "color": "Camouflage",
+      "clothing": "Capris",
+      "occasion": "Casual"
+    },
+    {
+      "id": "7894250316",
+      "color": "Polka Dot",
+      "clothing": "Skirt",
+      "occasion": "Retro"
+    },
+    {
+      "id": "6784132095",
+      "color": "Denim",
+      "clothing": "Button-Up Shirt",
+      "occasion": "Relaxed"
+    },
+    {
+      "id": "4892570361",
+      "color": "Striped",
+      "clothing": "Bikini",
+      "occasion": "Swimwear"
+    },
+    {
+      "id": "3285476019",
+      "color": "Plaid",
+      "clothing": "Flannel Dress",
+      "occasion": "Fall"
+    },
+    {
+      "id": "2146057398",
+      "color": "Black",
+      "clothing": "High-Waisted Jeans",
+      "occasion": "Casual"
+    },
+    {
+      "id": "9842036175",
+      "color": "Red",
+      "clothing": "Peacoat",
+      "occasion": "Cold Weather"
+    },
+    {
+      "id": "5678392104",
+      "color": "Blue",
+      "clothing": "Cargo Vest",
+      "occasion": "Layering"
+    },
+    {
+      "id": "2315476890",
+      "color": "Green",
+      "clothing": "Turtleneck Sweater",
+      "occasion": "Winter"
+    },
+    {
+      "id": "7892015346",
+      "color": "Pink",
+      "clothing": "Satin Blouse",
+      "occasion": "Elegant"
+    },
+    {
+      "id": "4021596873",
+      "color": "Gray",
+      "clothing": "Sweatpants",
+      "occasion": "Relaxed"
+    },
+    {
+      "id": "8197652304",
+      "color": "Orange",
+      "clothing": "Corduroy Skirt",
+      "occasion": "Retro"
+    },
+    {
+      "id": "1468792053",
+      "color": "Brown",
+      "clothing": "Suede Jacket",
+      "occasion": "Chic"
+    },
+    {
+      "id": "9203481576",
+      "color": "Yellow",
+      "clothing": "Off-Shoulder Top",
+      "occasion": "Sunny"
+    },
+    {
+      "id": "7258904136",
+      "color": "Black",
+      "clothing": "Chiffon Dress",
+      "occasion": "Formal"
+    },
+    {
+      "id": "5817423906",
+      "color": "Blue",
+      "clothing": "Graphic T-shirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "3251784960",
+      "color": "White",
+      "clothing": "Linen Pants",
+      "occasion": "Summer"
+    },
+    {
+      "id": "4872159306",
+      "color": "Floral",
+      "clothing": "Headband",
+      "occasion": "Whimsical"
+    },
+    {
+      "id": "6093718254",
+      "color": "Camouflage",
+      "clothing": "Bomber Jacket",
+      "occasion": "Urban"
+    },
+    {
+      "id": "2365194870",
+      "color": "Polka Dot",
+      "clothing": "Pants",
+      "occasion": "Statement"
+    },
+    {
+      "id": "1294865703",
+      "color": "Blue",
+      "clothing": "Rash Guard",
+      "occasion": "Sporty"
+    },
+    {
+      "id": "2309576148",
+      "color": "White",
+      "clothing": "Lace Kimono",
+      "occasion": "Elegant"
+    },
+    {
+      "id": "3518967420",
+      "color": "Floral",
+      "clothing": "Wrap Top",
+      "occasion": "Summer"
+    },
+    {
+      "id": "4098651327",
+      "color": "Camouflage",
+      "clothing": "Bucket Hat",
+      "occasion": "Casual"
+    },
+    {
+      "id": "5967312840",
+      "color": "Polka Dot",
+      "clothing": "Trousers",
+      "occasion": "Statement"
+    },
+    {
+      "id": "6721498035",
+      "color": "Denim",
+      "clothing": "Romper",
+      "occasion": "Playful"
+    },
+    {
+      "id": "7815904236",
+      "color": "Striped",
+      "clothing": "Midi Dress",
+      "occasion": "Chic"
+    },
+    {
+      "id": "8293615074",
+      "color": "Plaid",
+      "clothing": "Tie",
+      "occasion": "Formal"
+    },
+    {
+      "id": "9134265807",
+      "color": "Black",
+      "clothing": "Sheer Blouse",
+      "occasion": "Daring"
+    },
+    {
+      "id": "1098542367",
+      "color": "Red",
+      "clothing": "Lingerie Set",
+      "occasion": "Intimate"
+    },
+    {
+      "id": "2134576890",
+      "color": "Blue",
+      "clothing": "Jogging Pants",
+      "occasion": "Athleisure"
+    },
+    {
+      "id": "3247860195",
+      "color": "Green",
+      "clothing": "Suede Skirt",
+      "occasion": "Chic"
+    },
+    {
+      "id": "4326057891",
+      "color": "Pink",
+      "clothing": "Trench Coat",
+      "occasion": "Sophisticated"
+    },
+    {
+      "id": "5481723906",
+      "color": "Gray",
+      "clothing": "Hoodie Dress",
+      "occasion": "Casual"
+    },
+    {
+      "id": "6109532748",
+      "color": "Orange",
+      "clothing": "Print Dress",
+      "occasion": "Stylish"
+    },
+    {
+      "id": "7381295460",
+      "color": "Brown",
+      "clothing": "Wool Coat",
+      "occasion": "Winter"
+    },
+    {
+      "id": "8563701249",
+      "color": "Yellow",
+      "clothing": "Cropped Sweater",
+      "occasion": "Relaxed"
+    },
+    {
+      "id": "9571382450",
+      "color": "Black",
+      "clothing": "Ruffled Blouse",
+      "occasion": "Feminine"
+    },
+    {
+      "id": "1047958623",
+      "color": "Blue",
+      "clothing": "Shorts",
+      "occasion": "Casual"
+    },
+    {
+      "id": "1163089542",
+      "color": "White",
+      "clothing": "Slip Dress",
+      "occasion": "Sensual"
+    },
+    {
+      "id": "1226548973",
+      "color": "Floral",
+      "clothing": "Off-Shoulder Dress",
+      "occasion": "Romantic"
+    },
+    {
+      "id": "1365790214",
+      "color": "Camouflage",
+      "clothing": "Cargo Pants",
+      "occasion": "Casual"
+    },
+    {
+      "id": "1479320658",
+      "color": "Polka Dot",
+      "clothing": "Necktie",
+      "occasion": "Formal"
+    },
+    {
+      "id": "1587049326",
+      "color": "Denim",
+      "clothing": "Dungarees",
+      "occasion": "Playful"
+    },
+    {
+      "id": "1632987510",
+      "color": "Striped",
+      "clothing": "Swimsuit",
+      "occasion": "Beach"
+    },
+    {
+      "id": "1750683942",
+      "color": "Plaid",
+      "clothing": "Kilt",
+      "occasion": "Traditional"
+    },
+    {
+      "id": "1825639407",
+      "color": "Black",
+      "clothing": "Velvet Dress",
+      "occasion": "Elegant"
+    },
+    {
+      "id": "1947158203",
+      "color": "Red",
+      "clothing": "Gloves",
+      "occasion": "Winter"
+    },
+    {
+      "id": "2021467985",
+      "color": "Blue",
+      "clothing": "Ruffled Blouse",
+      "occasion": "Feminine"
+    },
+    {
+      "id": "2159378640",
+      "color": "Green",
+      "clothing": "Polo Shirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "2210867539",
+      "color": "Pink",
+      "clothing": "Pencil Skirt",
+      "occasion": "Office"
+    },
+    {
+      "id": "2347091826",
+      "color": "Gray",
+      "clothing": "Peplum Top",
+      "occasion": "Flair"
+    },
+    {
+      "id": "2489371056",
+      "color": "Orange",
+      "clothing": "Jumpsuit",
+      "occasion": "Fashionable"
+    },
+    {
+      "id": "2517869024",
+      "color": "Brown",
+      "clothing": "Woven Belt",
+      "occasion": "Boho"
+    },
+    {
+      "id": "2678194035",
+      "color": "Yellow",
+      "clothing": "Turtleneck Sweater",
+      "occasion": "Cold Weather"
+    },
+    {
+      "id": "2789634510",
+      "color": "Black",
+      "clothing": "Choker",
+      "occasion": "Edgy"
+    },
+    {
+      "id": "2856341097",
+      "color": "Blue",
+      "clothing": "Denim Skirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "2975108624",
+      "color": "White",
+      "clothing": "Ruffle Dress",
+      "occasion": "Romantic"
+    },
+    {
+      "id": "3017692586",
+      "color": "Floral",
+      "clothing": "Jumpsuit",
+      "occasion": "Playful"
+    },
+    {
+      "id": "3186907452",
+      "color": "Camouflage",
+      "clothing": "Printed Leggings",
+      "occasion": "Active"
+    },
+    {
+      "id": "3298461075",
+      "color": "Polka Dot",
+      "clothing": "Wrap Skirt",
+      "occasion": "Versatile"
+    },
+    {
+      "id": "3357146908",
+      "color": "Denim",
+      "clothing": "Chambray Dress",
+      "occasion": "Casual"
+    },
+    {
+      "id": "3421678935",
+      "color": "Striped",
+      "clothing": "Oversized Sweater",
+      "occasion": "Cozy"
+    },
+    {
+      "id": "3564927081",
+      "color": "Plaid",
+      "clothing": "Trousers",
+      "occasion": "Modern"
+    },
+    {
+      "id": "3685291764",
+      "color": "Black",
+      "clothing": "Trench Coat",
+      "occasion": "Classic"
+    },
+    {
+      "id": "3754196823",
+      "color": "Red",
+      "clothing": "Blazer Dress",
+      "occasion": "Formal"
+    },
+    {
+      "id": "3819407625",
+      "color": "Blue",
+      "clothing": "Shirt Dress",
+      "occasion": "Effortless"
+    },
+    {
+      "id": "3995816472",
+      "color": "Green",
+      "clothing": "Tie-Dye Shirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "4017593826",
+      "color": "Pink",
+      "clothing": "Maxi Skirt",
+      "occasion": "Boho"
+    },
+    {
+      "id": "4128365794",
+      "color": "Gray",
+      "clothing": "Jogging Suit",
+      "occasion": "Athleisure"
+    },
+    {
+      "id": "4267103985",
+      "color": "Orange",
+      "clothing": "Blouse",
+      "occasion": "Professional"
+    },
+    {
+      "id": "4316902578",
+      "color": "Brown",
+      "clothing": "Poncho",
+      "occasion": "Boho"
+    },
+    {
+      "id": "4479185623",
+      "color": "Yellow",
+      "clothing": "Polo Shirt",
+      "occasion": "Sporty"
+    },
+    {
+      "id": "4543276109",
+      "color": "Black",
+      "clothing": "Velvet Skirt",
+      "occasion": "Luxurious"
+    },
+    {
+      "id": "4612089576",
+      "color": "Blue",
+      "clothing": "Sweater Vest",
+      "occasion": "Layering"
+    },
+    {
+      "id": "4761908325",
+      "color": "White",
+      "clothing": "Off-Shoulder Dress",
+      "occasion": "Summer"
+    },
+    {
+      "id": "4846251937",
+      "color": "Floral",
+      "clothing": "Playsuit",
+      "occasion": "Playful"
+    },
+    {
+      "id": "4983207651",
+      "color": "Camouflage",
+      "clothing": "Utility Jacket",
+      "occasion": "Outdoor"
+    },
+    {
+      "id": "5021389674",
+      "color": "Polka Dot",
+      "clothing": "Dress Pants",
+      "occasion": "Office"
+    },
+    {
+      "id": "5176409238",
+      "color": "Denim",
+      "clothing": "Jean Jacket",
+      "occasion": "Casual"
+    },
+    {
+      "id": "5251946783",
+      "color": "Striped",
+      "clothing": "Wrap Dress",
+      "occasion": "Versatile"
+    },
+    {
+      "id": "5397124860",
+      "color": "Plaid",
+      "clothing": "Knee-High Socks",
+      "occasion": "Preppy"
+    },
+    {
+      "id": "5473028196",
+      "color": "Black",
+      "clothing": "Cami Top",
+      "occasion": "Night Out"
+    },
+    {
+      "id": "5584691032",
+      "color": "Red",
+      "clothing": "Sweatshirt",
+      "occasion": "Casual"
+    },
+    {
+      "id": "5658302194",
+      "color": "Blue",
+      "clothing": "Turtleneck Sweater",
+      "occasion": "Winter"
+    },
+    {
+      "id": "5774106923",
+      "color": "Green",
+      "clothing": "Cargo Pants",
+      "occasion": "Utilitarian"
+    },
+    {
+      "id": "5849216308",
+      "color": "Pink",
+      "clothing": "Wrap Skirt",
+      "occasion": "Feminine"
+    },
+    {
+      "id": "5926783410",
+      "color": "Gray",
+      "clothing": "Tweed Jacket",
+      "occasion": "Professional"
+    },
+    {
+      "id": "6094723815",
+      "color": "Orange",
+      "clothing": "Tunic Top",
+      "occasion": "Boho"
+    },
+    {
+      "id": "6182975643",
+      "color": "Brown",
+      "clothing": "Bomber Jacket",
+      "occasion": "Edgy"
+    },
+    {
+      "id": "6275184309",
+      "color": "Yellow",
+      "clothing": "Mini Dress",
+      "occasion": "Summer"
+    },
+    {
+      "id": "6330481925",
+      "color": "Black",
+      "clothing": "High-Waisted Pants",
+      "occasion": "Sleek"
+    },
+    {
+      "id": "6481037952",
+      "color": "Blue",
+      "clothing": "Halter Neck Dress",
+      "occasion": "Party"
+    },
+    {
+      "id": "6598742150",
+      "color": "White",
+      "clothing": "Jumpsuit",
+      "occasion": "Chic"
+    },
+    {
+      "id": "6621394856",
+      "color": "Floral",
+      "clothing": "Sun Hat",
+      "occasion": "Sun Protection"
+    },
+    {
+      "id": "6735089621",
+      "color": "Camouflage",
+      "clothing": "Hoodie",
+      "occasion": "Casual"
+    },
+    {
+      "id": "6893510274",
+      "color": "Polka Dot",
+      "clothing": "Ruffled Blouse",
+      "occasion": "Romantic"
+    },
+    {
+      "id": "6973812095",
+      "color": "Denim",
+      "clothing": "Flared Jeans",
+      "occasion": "70s Style"
+    },
+    {
+      "id": "7025803914",
+      "color": "Striped",
+      "clothing": "T-shirt Dress",
+      "occasion": "Effortless"
+    },
+    {
+      "id": "7185264039",
+      "color": "Plaid",
+      "clothing": "Blouse",
+      "occasion": "Office"
+    },
+    {
+      "id": "7241568903",
+      "color": "Black",
+      "clothing": "Pencil Skirt",
+      "occasion": "Professional"
+    },
+    {
+      "id": "7332045168",
+      "color": "Red",
+      "clothing": "Off-Shoulder Top",
+      "occasion": "Flirty"
+    },
+    {
+      "id": "7485137296",
+      "color": "Blue",
+      "clothing": "Jeans",
+      "occasion": "Casual"
+    },
+    {
+      "id": "7518629403",
+      "color": "Green",
+      "clothing": "Trench Coat",
+      "occasion": "Classic"
+    },
+    {
+      "id": "7681059324",
+      "color": "Pink",
+      "clothing": "Shift Dress",
+      "occasion": "Timeless"
+    },
+    {
+      "id": "7754632186",
+      "color": "Gray",
+      "clothing": "Tracksuit",
+      "occasion": "Athleisure"
+    },
+    {
+      "id": "7892356147",
+      "color": "Orange",
+      "clothing": "Knit Sweater",
+      "occasion": "Cozy"
+    },
+    {
+      "id": "7985627310",
+      "color": "Brown",
+      "clothing": "Midi Skirt",
+      "occasion": "Versatile"
+    },
+    {
+      "id": "8021436957",
+      "color": "Yellow",
+      "clothing": "Cropped Top",
+      "occasion": "Summer"
+    },
+    {
+      "id": "8146902573",
+      "color": "Black",
+      "clothing": "Leather Jacket",
+      "occasion": "Cool"
+    },
+    {
+      "id": "8297160345",
+      "color": "Blue",
+      "clothing": "Wrap Dress",
+      "occasion": "Flattering"
+    },
+    {
+      "id": "8372489105",
+      "color": "White",
+      "clothing": "Crop Top",
+      "occasion": "Casual"
+    },
+    {
+      "id": "8452796410",
+      "color": "Floral",
+      "clothing": "Boho Dress",
+      "occasion": "Festive"
+    },
   {
-    "color": "Blue",
-    "clothing": "Denim Jacket",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Red",
-    "clothing": "Plaid Flannel Shirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "White",
-    "clothing": "V-neck T-shirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Black",
-    "clothing": "Leather Jacket",
-    "occasion": "Edgy"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Sundress",
-    "occasion": "Summer"
-  },
-  {
-    "color": "Green",
-    "clothing": "Cargo Pants",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Hoodie",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Knit Sweater",
-    "occasion": "Cold Weather"
-  },
-  {
-    "color": "Purple",
-    "clothing": "Silk Blouse",
-    "occasion": "Elegant"
-  },
-  {
+    "id": "a1b2c3d4",
     "color": "Orange",
-    "clothing": "Jumpsuit",
-    "occasion": "Fashionable"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Corduroy Pants",
-    "occasion": "Vintage"
-  },
-  {
-    "color": "Black",
-    "clothing": "Turtleneck",
-    "occasion": "Chic"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Baseball Cap",
-    "occasion": "Sporty"
-  },
-  {
-    "color": "White",
-    "clothing": "Linen Shirt",
-    "occasion": "Summer"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Maxi Dress",
-    "occasion": "Romantic"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Cargo Shorts",
-    "occasion": "Rugged"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Blouse",
-    "occasion": "Playful"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Overalls",
-    "occasion": "Trendy"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Crew Neck Sweater",
-    "occasion": "Warm"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Skirt",
-    "occasion": "Versatile"
-  },
-  {
-    "color": "Black",
-    "clothing": "Leather Pants",
-    "occasion": "Bold"
-  },
-  {
-    "color": "Red",
-    "clothing": "Puffer Jacket",
-    "occasion": "Cold Weather"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Chambray Shirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Green",
-    "clothing": "Cargo Shorts",
-    "occasion": "Outdoor"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Raincoat",
-    "occasion": "Rainy Days"
-  },
-  {
-    "color": "White",
-    "clothing": "Crochet Top",
-    "occasion": "Boho"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Suede Skirt",
-    "occasion": "Sophisticated"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Bomber Jacket",
-    "occasion": "Trendy"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Tank Top",
-    "occasion": "Layering"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Wrap Dress",
-    "occasion": "Elegant"
-  },
-  {
-    "color": "Purple",
-    "clothing": "Velvet Blazer",
-    "occasion": "Refined"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Jogging Pants",
-    "occasion": "Lounging"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Crop Top",
-    "occasion": "Summer"
-  },
-  {
-    "color": "Black",
-    "clothing": "Formal Suit",
-    "occasion": "Special Occasions"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Jean Shorts",
-    "occasion": "Summer"
-  },
-  {
-    "color": "White",
-    "clothing": "Button-Up Shirt",
-    "occasion": "Versatile"
-  },
-  {
-    "color": "Green",
-    "clothing": "Sweater Dress",
-    "occasion": "Cold Weather"
-  },
-  {
-    "color": "Red",
-    "clothing": "Plaid Skirt",
-    "occasion": "Holiday"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Track Jacket",
-    "occasion": "Sporty"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Corduroy Jacket",
-    "occasion": "Layering"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Midi Skirt",
-    "occasion": "Versatile"
-  },
-  {
-    "color": "Black",
-    "clothing": "Hooded Sweatshirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Linen Pants",
-    "occasion": "Summer"
-  },
-  {
-    "color": "White",
-    "clothing": "Lace Blouse",
-    "occasion": "Romantic"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Romper",
-    "occasion": "Playful"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Print Pants",
-    "occasion": "Edgy"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Dress",
-    "occasion": "Timeless"
-  },
-  {
-    "color": "Denim",
     "clothing": "Mini Skirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Cardigan",
-    "occasion": "Layering"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Scarf",
-    "occasion": "Cold Weather"
-  },
-  {
-    "color": "Black",
-    "clothing": "Leggings",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Red",
-    "clothing": "Flannel Hoodie",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Pencil Skirt",
-    "occasion": "Office"
-  },
-  {
-    "color": "Green",
-    "clothing": "Bomber Jacket",
-    "occasion": "Modern"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Denim Shorts",
-    "occasion": "Summer"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Turtleneck Sweater",
-    "occasion": "Layering"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Maxi Dress",
-    "occasion": "Elegant"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Leather Boots",
-    "occasion": "Versatile"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Button-Up Blouse",
-    "occasion": "Cheerful"
-  },
-  {
-    "color": "Black",
-    "clothing": "Wrap Top",
-    "occasion": "Versatile"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Rain Jacket",
-    "occasion": "Rainy Days"
-  },
-  {
-    "color": "White",
-    "clothing": "Boho Dress",
-    "occasion": "Breezy"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Kimono",
-    "occasion": "Flair"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Capris",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Skirt",
-    "occasion": "Retro"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Button-Up Shirt",
-    "occasion": "Relaxed"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Bikini",
-    "occasion": "Swimwear"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Flannel Dress",
-    "occasion": "Fall"
-  },
-  {
-    "color": "Black",
-    "clothing": "High-Waisted Jeans",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Red",
-    "clothing": "Peacoat",
-    "occasion": "Cold Weather"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Cargo Vest",
-    "occasion": "Layering"
-  },
-  {
-    "color": "Green",
-    "clothing": "Turtleneck Sweater",
-    "occasion": "Winter"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Satin Blouse",
-    "occasion": "Elegant"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Sweatpants",
-    "occasion": "Relaxed"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Corduroy Skirt",
-    "occasion": "Retro"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Suede Jacket",
-    "occasion": "Chic"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Off-Shoulder Top",
-    "occasion": "Sunny"
-  },
-  {
-    "color": "Black",
-    "clothing": "Chiffon Dress",
-    "occasion": "Formal"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Graphic T-shirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "White",
-    "clothing": "Linen Pants",
-    "occasion": "Summer"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Headband",
-    "occasion": "Whimsical"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Bomber Jacket",
-    "occasion": "Urban"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Pants",
-    "occasion": "Statement"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Skirt Overall",
-    "occasion": "Vintage"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Sweater Dress",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Button-Up Shirt",
-    "occasion": "Versatile"
-  },
-  {
-    "color": "Black",
-    "clothing": "Velvet Blouse",
-    "occasion": "Evening"
-  },
-  {
-    "color": "Red",
-    "clothing": "Pajama Set",
-    "occasion": "Lounging"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Cropped Jeans",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Green",
-    "clothing": "Hooded Parka",
-    "occasion": "Outdoor"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Pleated Skirt",
-    "occasion": "Feminine"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Knit Cardigan",
-    "occasion": "Layering"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Wrap Dress",
-    "occasion": "Flattering"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Leather Belt",
-    "occasion": "Accessorize"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Rain Boots",
-    "occasion": "Rainy Days"
-  },
-  {
-    "color": "Black",
-    "clothing": "Fishnet Tights",
-    "occasion": "Edgy"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Oxford Shirt",
-    "occasion": "Polished"
-  },
-  {
-    "color": "White",
-    "clothing": "Lace Dress",
-    "occasion": "Romantic"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Midi Skirt",
-    "occasion": "Feminine"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Cargo Jacket",
-    "occasion": "Trendy"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Blazer",
-    "occasion": "Professional"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Bucket Hat",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Tank Dress",
-    "occasion": "Summer"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Wool Scarf",
-    "occasion": "Cold Weather"
-  },
-  {
-    "color": "Black",
-    "clothing": "Athleisure Leggings",
-    "occasion": "Sporty"
-  },
-  {
-    "color": "Red",
-    "clothing": "Beret",
-    "occasion": "Stylish"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Chambray Skirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Green",
-    "clothing": "Silk Blouse",
-    "occasion": "Sophisticated"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Cargo Shorts",
-    "occasion": "Practical"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Pullover Sweater",
-    "occasion": "Relaxed"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Maxi Skirt",
-    "occasion": "Statement"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Fedora Hat",
-    "occasion": "Elevate"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Flared Dress",
-    "occasion": "Sunny"
-  },
-  {
-    "color": "Black",
-    "clothing": "Lace Bodysuit",
-    "occasion": "Confident"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Corduroy Pants",
-    "occasion": "Vintage"
-  },
-  {
-    "color": "White",
-    "clothing": "Denim Shorts",
-    "occasion": "Fresh"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Wide-Leg Pants",
-    "occasion": "Trendy"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Crop Top",
-    "occasion": "Edgy"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Headscarf",
-    "occasion": "Accessorize"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Capris",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Peplum Top",
-    "occasion": "Flair"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Mini Skirt",
-    "occasion": "Youthful"
-  },
-  {
-    "color": "Black",
-    "clothing": "Puffer Vest",
-    "occasion": "Layering"
-  },
-  {
-    "color": "Red",
-    "clothing": "Midi Dress",
-    "occasion": "Elegant"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Cargo Shorts",
-    "occasion": "Outdoor"
-  },
-  {
-    "color": "Green",
-    "clothing": "Knit Cardigan",
-    "occasion": "Stylish"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Leather Jacket",
-    "occasion": "Vibrant"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Beanie",
-    "occasion": "Cold Weather"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Crochet Top",
-    "occasion": "Boho"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Sweater Vest",
-    "occasion": "Warm"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Linen Pants",
-    "occasion": "Cheerful"
-  },
-  {
-    "color": "Black",
-    "clothing": "Wrap Skirt",
-    "occasion": "Flattering"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Rash Guard",
-    "occasion": "Sporty"
-  },
-  {
-    "color": "White",
-    "clothing": "Lace Kimono",
-    "occasion": "Elegant"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Wrap Top",
-    "occasion": "Summer"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Bucket Hat",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Trousers",
-    "occasion": "Statement"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Romper",
     "occasion": "Playful"
   },
   {
-    "color": "Striped",
-    "clothing": "Midi Dress",
-    "occasion": "Chic"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Tie",
-    "occasion": "Formal"
-  },
-  {
-    "color": "Black",
-    "clothing": "Sheer Blouse",
-    "occasion": "Daring"
-  },
-  {
-    "color": "Red",
-    "clothing": "Lingerie Set",
-    "occasion": "Intimate"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Jogging Pants",
-    "occasion": "Athleisure"
-  },
-  {
-    "color": "Green",
-    "clothing": "Suede Skirt",
-    "occasion": "Chic"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Trench Coat",
-    "occasion": "Sophisticated"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Hoodie Dress",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Print Dress",
-    "occasion": "Stylish"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Wool Coat",
-    "occasion": "Winter"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Cropped Sweater",
-    "occasion": "Relaxed"
-  },
-  {
-    "color": "Black",
-    "clothing": "Ruffled Blouse",
-    "occasion": "Feminine"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Shorts",
-    "occasion": "Casual"
-  },
-  {
-    "color": "White",
-    "clothing": "Slip Dress",
-    "occasion": "Sensual"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Off-Shoulder Dress",
-    "occasion": "Romantic"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Cargo Pants",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Necktie",
-    "occasion": "Formal"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Dungarees",
-    "occasion": "Playful"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Swimsuit",
-    "occasion": "Beach"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Kilt",
-    "occasion": "Traditional"
-  },
-  {
-    "color": "Black",
-    "clothing": "Velvet Dress",
-    "occasion": "Elegant"
-  },
-  {
-    "color": "Red",
-    "clothing": "Gloves",
-    "occasion": "Winter"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Ruffled Blouse",
-    "occasion": "Feminine"
-  },
-  {
-    "color": "Green",
-    "clothing": "Polo Shirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Pencil Skirt",
-    "occasion": "Office"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Peplum Top",
-    "occasion": "Flair"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Jumpsuit",
-    "occasion": "Fashionable"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Woven Belt",
-    "occasion": "Boho"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Turtleneck Sweater",
-    "occasion": "Cold Weather"
-  },
-  {
-    "color": "Black",
-    "clothing": "Choker",
-    "occasion": "Edgy"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Denim Skirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "White",
-    "clothing": "Ruffle Dress",
-    "occasion": "Romantic"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Jumpsuit",
-    "occasion": "Playful"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Printed Leggings",
-    "occasion": "Active"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Wrap Skirt",
-    "occasion": "Versatile"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Chambray Dress",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Oversized Sweater",
-    "occasion": "Cozy"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Trousers",
-    "occasion": "Modern"
-  },
-  {
-    "color": "Black",
-    "clothing": "Trench Coat",
-    "occasion": "Classic"
-  },
-  {
-    "color": "Red",
-    "clothing": "Blazer Dress",
-    "occasion": "Formal"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Shirt Dress",
-    "occasion": "Effortless"
-  },
-  {
-    "color": "Green",
-    "clothing": "Tie-Dye Shirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Maxi Skirt",
-    "occasion": "Boho"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Jogging Suit",
-    "occasion": "Athleisure"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Blouse",
-    "occasion": "Professional"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Poncho",
-    "occasion": "Boho"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Polo Shirt",
-    "occasion": "Sporty"
-  },
-  {
-    "color": "Black",
-    "clothing": "Velvet Skirt",
-    "occasion": "Luxurious"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Sweater Vest",
-    "occasion": "Layering"
-  },
-  {
-    "color": "White",
-    "clothing": "Off-Shoulder Dress",
-    "occasion": "Summer"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Playsuit",
-    "occasion": "Playful"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Utility Jacket",
-    "occasion": "Outdoor"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Dress Pants",
-    "occasion": "Office"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Jean Jacket",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Wrap Dress",
-    "occasion": "Versatile"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Knee-High Socks",
-    "occasion": "Preppy"
-  },
-  {
-    "color": "Black",
-    "clothing": "Cami Top",
-    "occasion": "Night Out"
-  },
-  {
-    "color": "Red",
-    "clothing": "Sweatshirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Turtleneck Sweater",
-    "occasion": "Winter"
-  },
-  {
-    "color": "Green",
-    "clothing": "Cargo Pants",
-    "occasion": "Utilitarian"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Wrap Skirt",
-    "occasion": "Feminine"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Tweed Jacket",
-    "occasion": "Professional"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Tunic Top",
-    "occasion": "Boho"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Bomber Jacket",
-    "occasion": "Edgy"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Mini Dress",
-    "occasion": "Summer"
-  },
-  {
-    "color": "Black",
-    "clothing": "High-Waisted Pants",
-    "occasion": "Sleek"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Halter Neck Dress",
-    "occasion": "Party"
-  },
-  {
-    "color": "White",
-    "clothing": "Jumpsuit",
-    "occasion": "Chic"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Sun Hat",
-    "occasion": "Sun Protection"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Hoodie",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Ruffled Blouse",
-    "occasion": "Romantic"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Flared Jeans",
-    "occasion": "70s Style"
-  },
-  {
-    "color": "Striped",
-    "clothing": "T-shirt Dress",
-    "occasion": "Effortless"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Blouse",
-    "occasion": "Office"
-  },
-  {
-    "color": "Black",
-    "clothing": "Pencil Skirt",
-    "occasion": "Professional"
-  },
-  {
-    "color": "Red",
-    "clothing": "Off-Shoulder Top",
-    "occasion": "Flirty"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Jeans",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Green",
-    "clothing": "Trench Coat",
-    "occasion": "Classic"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Shift Dress",
-    "occasion": "Timeless"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Tracksuit",
-    "occasion": "Athleisure"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Knit Sweater",
-    "occasion": "Cozy"
-  },
-  {
-    "color": "Brown",
-    "clothing": "Midi Skirt",
-    "occasion": "Versatile"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Cropped Top",
-    "occasion": "Summer"
-  },
-  {
-    "color": "Black",
-    "clothing": "Leather Jacket",
-    "occasion": "Cool"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Wrap Dress",
-    "occasion": "Flattering"
-  },
-  {
-    "color": "White",
-    "clothing": "Crop Top",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Floral",
-    "clothing": "Boho Dress",
-    "occasion": "Festive"
-  },
-  {
-    "color": "Camouflage",
-    "clothing": "Camisole",
-    "occasion": "Lounge"
-  },
-  {
-    "color": "Polka Dot",
-    "clothing": "Pleated Skirt",
-    "occasion": "Charming"
-  },
-  {
-    "color": "Denim",
-    "clothing": "Button-Up Dress",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Striped",
-    "clothing": "Turtleneck Sweater",
-    "occasion": "Winter"
-  },
-  {
-    "color": "Plaid",
-    "clothing": "Pinafore Dress",
-    "occasion": "Vintage"
-  },
-  {
-    "color": "Black",
-    "clothing": "Trousers",
-    "occasion": "Office"
-  },
-  {
-    "color": "Red",
-    "clothing": "Cropped Sweater",
-    "occasion": "Chic"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Denim Jacket",
-    "occasion": "Everyday"
-  },
-  {
-    "color": "Green",
-    "clothing": "Silk Dress",
-    "occasion": "Elegant"
-  },
-  {
-    "color": "Pink",
-    "clothing": "Floral Dress",
-    "occasion": "Garden Party"
-  },
-  {
-    "color": "Gray",
-    "clothing": "Cashmere Sweater",
-    "occasion": "Luxurious"
-  },
-  {
-    "color": "Orange",
-    "clothing": "Mini Skirt",
-    "occasion": "Playful"
-  },
-  {
+    "id": "e5f6g7h8",
     "color": "Brown",
     "clothing": "Tweed Blazer",
     "occasion": "Sophisticated"
   },
   {
+    "id": "i9j0k1l2",
     "color": "Yellow",
     "clothing": "V-neck Dress",
     "occasion": "Sunny"
   },
   {
+    "id": "m3n4o5p6",
     "color": "Black",
     "clothing": "Cropped Jacket",
     "occasion": "Edgy"
   },
   {
+    "id": "q7r8s9t0",
     "color": "Blue",
     "clothing": "Pleated Skirt",
     "occasion": "Chic"
   },
   {
+    "id": "u1v2w3x4",
     "color": "White",
     "clothing": "Ringer T-shirt",
     "occasion": "Casual"
   },
   {
+    "id": "y5z6a7b8",
     "color": "Floral",
     "clothing": "Kimono Dress",
     "occasion": "Boho"
   },
   {
+    "id": "c9d0e1f2",
     "color": "Camouflage",
     "clothing": "Cropped Pants",
     "occasion": "Relaxed"
   },
   {
+    "id": "g3h4i5j6",
     "color": "Polka Dot",
     "clothing": "High-Low Skirt",
     "occasion": "Dance"
   },
   {
+    "id": "k7l8m9n0",
     "color": "Denim",
     "clothing": "Overall Dress",
     "occasion": "Casual"
   },
   {
+    "id": "o1p2q3r4",
     "color": "Striped",
     "clothing": "Wide-Leg Jumpsuit",
     "occasion": "Chic"
   },
   {
+    "id": "s5t6u7v8",
     "color": "Plaid",
     "clothing": "Tartan Scarf",
     "occasion": "Cold Weather"
   },
   {
+    "id": "w9x0y1z2",
     "color": "Black",
     "clothing": "Lace-Up Boots",
     "occasion": "Edgy"
   },
   {
+    "id": "a3b4c5d6",
     "color": "Red",
     "clothing": "Ruffle Skirt",
     "occasion": "Feminine"
   },
   {
+    "id": "e7f8g9h0",
     "color": "Blue",
     "clothing": "Striped Blouse",
     "occasion": "Casual"
   },
   {
+    "id": "i1j2k3l4",
     "color": "Green",
     "clothing": "Cargo Vest",
     "occasion": "Outdoor"
   },
   {
+    "id": "m5n6o7p8",
     "color": "Pink",
     "clothing": "Satin Slip Dress",
     "occasion": "Elegant"
   },
   {
+    "id": "q9r0s1t2",
     "color": "Gray",
     "clothing": "Oversized Sweater",
     "occasion": "Cozy"
   },
   {
+    "id": "u3v4w5x6",
     "color": "Orange",
     "clothing": "Pleated Culottes",
     "occasion": "Versatile"
   },
   {
+    "id": "y7z8a9b0",
     "color": "Brown",
     "clothing": "Turtleneck Dress",
     "occasion": "Winter"
   },
   {
+    "id": "c1d2e3f4",
     "color": "Yellow",
     "clothing": "Linen Shorts",
     "occasion": "Summer"
   },
   {
+    "id": "g5h6i7j8",
     "color": "Black",
     "clothing": "Faux Leather Leggings",
     "occasion": "Edgy"
   },
   {
+    "id": "k9l0m1n2",
     "color": "Blue",
     "clothing": "Off-Shoulder Dress",
     "occasion": "Flirty"
   },
   {
+    "id": "o3p4q5r6",
     "color": "Green",
     "clothing": "Military Jacket",
     "occasion": "Casual"
   },
   {
+    "id": "s7t8u9v0",
     "color": "Pink",
     "clothing": "Ballet Flats",
     "occasion": "Classic"
   },
   {
+    "id": "w1x2y3z4",
     "color": "Gray",
     "clothing": "Poncho",
     "occasion": "Boho"
   },
   {
+    "id": "a5b6c7d8",
     "color": "Orange",
     "clothing": "Wide-Leg Trousers",
     "occasion": "Sophisticated"
   },
   {
+    "id": "e9f0g1h2",
     "color": "Brown",
     "clothing": "Wool Coat",
     "occasion": "Cold Weather"
   },
   {
+    "id": "i3j4k5l6",
     "color": "Yellow",
     "clothing": "Midi Cardigan",
     "occasion": "Layering"
   },
   {
+    "id": "m7n8o9p0",
     "color": "Black",
     "clothing": "Ankle Booties",
     "occasion": "Versatile"
   },
   {
+    "id": "q1r2s3t4",
     "color": "Blue",
     "clothing": "Ripped Jeans",
     "occasion": "Casual"
   },
   {
+    "id": "u5v6w7x8",
     "color": "Green",
     "clothing": "Athletic Leggings",
     "occasion": "Active"
   },
   {
+    "id": "y9z0a1b2",
     "color": "Pink",
     "clothing": "Halter Top",
     "occasion": "Summer"
   },
   {
+    "id": "c3d4e5f6",
     "color": "Gray",
     "clothing": "Hooded Sweater",
     "occasion": "Relaxed"
   },
   {
+    "id": "g7h8i9j0",
     "color": "Orange",
     "clothing": "Maxi Cardigan",
     "occasion": "Layering"
   },
   {
+    "id": "k1l2m3n4",
     "color": "Brown",
     "clothing": "Corduroy Blazer",
     "occasion": "Vintage"
   },
   {
+    "id": "o5p6q7r8",
     "color": "Yellow",
     "clothing": "Tweed Skirt",
     "occasion": "Chic"
   },
   {
+    "id": "s9t0u1v2",
     "color": "Black",
     "clothing": "Choker Necklace",
     "occasion": "Trendy"
   },
   {
+    "id": "w3x4y5z6",
     "color": "Blue",
     "clothing": "Sweater Dress",
     "occasion": "Cozy"
   },
   {
+    "id": "a7b8c9d0",
     "color": "Green",
     "clothing": "Cargo Jumpsuit",
     "occasion": "Utility"
   },
   {
+    "id": "e1f2g3h4",
     "color": "Pink",
     "clothing": "Floral Headband",
     "occasion": "Festival"
   },
   {
+    "id": "i5j6k7l8",
     "color": "Gray",
     "clothing": "Knit Beanie",
     "occasion": "Cold Weather"
   },
   {
+    "id": "m9n0o1p2",
     "color": "Orange",
     "clothing": "Suede Skirt",
     "occasion": "Boho"
   },
   {
+    "id": "q3r4s5t6",
     "color": "Brown",
     "clothing": "Oxford Shoes",
     "occasion": "Classic"
   },
   {
+    "id": "u7v8w9x0",
     "color": "Yellow",
     "clothing": "High-Low Dress",
     "occasion": "Elegant"
   },
   {
+    "id": "y1z2a3b4",
     "color": "Black",
     "clothing": "Tulle Skirt",
     "occasion": "Whimsical"
   },
   {
+    "id": "c5d6e7f8",
     "color": "Blue",
     "clothing": "Puffer Jacket",
     "occasion": "Cold Weather"
   },
   {
+    "id": "g9h0i1j2",
     "color": "Green",
     "clothing": "Cargo Shirt",
     "occasion": "Casual"
   },
   {
+    "id": "k3l4m5n6",
     "color": "Pink",
     "clothing": "Chiffon Blouse",
     "occasion": "Feminine"
   },
   {
+    "id": "o7p8q9r0",
     "color": "Gray",
     "clothing": "Fleece Jacket",
     "occasion": "Outdoor"
   },
   {
+    "id": "s1t2u3v4",
     "color": "Orange",
     "clothing": "Sweater Skirt",
     "occasion": "Cozy"
   },
   {
+    "id": "w5x6y7z8",
     "color": "Brown",
     "clothing": "Loafers",
     "occasion": "Smart Casual"
   },
   {
+    "id": "a9b0c1d2",
     "color": "Yellow",
     "clothing": "Polo Shirt",
     "occasion": "Sporty"
   },
   {
+    "id": "p3q4r5s6",
     "color": "Black",
     "clothing": "Cold Shoulder Top",
     "occasion": "Trendy"
   },
   {
+    "id": "t7u8v9w0",
     "color": "Blue",
     "clothing": "Plaid Pants",
     "occasion": "Preppy"
   },
   {
+    "id": "x1y2z3a4",
     "color": "Green",
     "clothing": "Midi Skirt",
     "occasion": "Classic"
   },
   {
+    "id": "b5c6d7e8",
     "color": "Pink",
     "clothing": "Ruffled Dress",
     "occasion": "Romantic"
   },
   {
+    "id": "f9g0h1i2",
     "color": "Gray",
     "clothing": "Pullover Hoodie",
     "occasion": "Casual"
   },
   {
+    "id": "j3k4l5m6",
     "color": "Orange",
     "clothing": "Printed Leggings",
     "occasion": "Active"
   },
   {
+    "id": "n7o8p9q0",
     "color": "Brown",
     "clothing": "Cable Knit Sweater",
     "occasion": "Cozy"
   },
   {
+    "id": "r1s2t3u4",
     "color": "Yellow",
     "clothing": "Biker Jacket",
     "occasion": "Edgy"
   },
   {
+    "id": "v5w6x7y8",
     "color": "Black",
     "clothing": "Bodysuit",
     "occasion": "Versatile"
   },
   {
+    "id": "z9a0b1c2",
     "color": "Blue",
     "clothing": "Lace Dress",
     "occasion": "Elegant"
   },
   {
+    "id": "d3e4f5g6",
     "color": "Green",
     "clothing": "Floral Midi Dress",
     "occasion": "Chic"
   },
   {
+    "id": "h7i8j9k0",
     "color": "Pink",
     "clothing": "Track Pants",
     "occasion": "Athletic"
   },
   {
+    "id": "l1m2n3o4",
     "color": "Gray",
     "clothing": "Oversized Blazer",
     "occasion": "Professional"
   },
   {
+    "id": "p5q6r7s8",
     "color": "Orange",
     "clothing": "Wide-Leg Cropped Pants",
     "occasion": "Stylish"
   },
   {
+    "id": "t9u0v1w2",
     "color": "Brown",
     "clothing": "Tweed Jacket",
     "occasion": "Sophisticated"
   },
   {
+    "id": "x3y4z5a6",
     "color": "Yellow",
     "clothing": "Pleated Skirt",
     "occasion": "Feminine"
   },
   {
+    "id": "b7c8d9e0",
     "color": "Black",
     "clothing": "Turtleneck Dress",
     "occasion": "Winter"
   },
   {
+    "id": "f1g2h3i4",
     "color": "Blue",
     "clothing": "Polo Dress",
     "occasion": "Sporty"
   },
   {
+    "id": "j5k6l7m8",
     "color": "Green",
     "clothing": "Utility Jumpsuit",
     "occasion": "Casual"
   },
   {
+    "id": "n9o0p1q2",
     "color": "Pink",
     "clothing": "Chambray Shirt",
     "occasion": "Relaxed"
   },
   {
+    "id": "r3s4t5u6",
     "color": "Gray",
     "clothing": "Cashmere Sweater",
     "occasion": "Luxurious"
   },
   {
+    "id": "v7w8x9y0",
     "color": "Orange",
     "clothing": "Trench Coat",
     "occasion": "Classic"
   },
   {
+    "id": "z1a2b3c4",
     "color": "Brown",
     "clothing": "Leather Gloves",
     "occasion": "Cold Weather"
   },
   {
+    "id": "d5e6f7g8",
     "color": "Yellow",
     "clothing": "V-Neck Sweater",
     "occasion": "Casual"
   },
   {
+    "id": "h9i0j1k2",
     "color": "Black",
     "clothing": "Floral Print Dress",
     "occasion": "Feminine"
   },
   {
+    "id": "l3m4n5o6",
     "color": "Blue",
     "clothing": "Ankle Strap Heels",
     "occasion": "Elegant"
   },
   {
+    "id": "p7q8r9s0",
     "color": "Green",
     "clothing": "Cargo Shorts",
     "occasion": "Outdoor"
   },
   {
+    "id": "t1u2v3w4",
     "color": "Pink",
     "clothing": "Puffer Vest",
     "occasion": "Layering"
   },
   {
+    "id": "x5y6z7a8",
     "color": "Gray",
     "clothing": "Cowl Neck Sweater",
     "occasion": "Cozy"
   },
   {
+    "id": "b9c0d1e2",
     "color": "Orange",
     "clothing": "Suede Jacket",
     "occasion": "Edgy"
   },
   {
+    "id": "f3g4h5i6",
     "color": "Brown",
     "clothing": "Wide-Leg Trousers",
     "occasion": "Chic"
   },
   {
+    "id": "j7k8l9m0",
     "color": "Yellow",
     "clothing": "Crop Top",
     "occasion": "Summer"
   },
   {
+    "id": "n1o2p3q4",
     "color": "Black",
     "clothing": "Blouse",
     "occasion": "Professional"
   },
   {
+    "id": "r5s6t7u8",
     "color": "Blue",
     "clothing": "Cropped Jacket",
     "occasion": "Casual"
   },
   {
+    "id": "v9w0x1y2",
     "color": "Green",
     "clothing": "Silk Slip Dress",
     "occasion": "Elegant"
   },
   {
+    "id": "z3a4b5c6",
     "color": "Pink",
     "clothing": "Ripped Denim Shorts",
     "occasion": "Casual"
   },
   {
+    "id": "d7e8f9g0",
     "color": "Gray",
     "clothing": "Polo Sweater",
     "occasion": "Sporty"
   },
   {
+    "id": "h1i2j3k4",
     "color": "Orange",
     "clothing": "Hooded Parka",
     "occasion": "Cold Weather"
   },
   {
+    "id": "l5m6n7o8",
     "color": "Brown",
     "clothing": "Fedora Hat",
     "occasion": "Classic"
   },
   {
+    "id": "p9q0r1s2",
     "color": "Yellow",
     "clothing": "Ruffle Sleeve Top",
     "occasion": "Feminine"
   },
   {
+    "id": "t3u4v5w6",
     "color": "Black",
     "clothing": "Biker Jacket",
     "occasion": "Edgy"
   },
   {
+    "id": "x7y8z9a0",
     "color": "Blue",
     "clothing": "Knit Sweater",
     "occasion": "Cozy"
   },
   {
+    "id": "b1c2d3e4",
     "color": "Green",
     "clothing": "Cargo Pants",
     "occasion": "Casual"
   },
   {
+    "id": "f5g6h7i8",
     "color": "Pink",
     "clothing": "Wrap Blouse",
     "occasion": "Chic"
   },
   {
+    "id": "j9k0l1m2",
     "color": "Gray",
     "clothing": "Turtleneck Sweater",
     "occasion": "Classic"
   },
   {
+    "id": "n3o4p5q6",
     "color": "Orange",
     "clothing": "Jumpsuit",
     "occasion": "Versatile"
   },
   {
+    "id": "r7s8t9u0",
     "color": "Brown",
     "clothing": "Corduroy Pants",
     "occasion": "Vintage"
   },
   {
+    "id": "v1w2x3y4",
     "color": "Yellow",
     "clothing": "Lace-Up Boots",
     "occasion": "Edgy"
   },
   {
+    "id": "z5a6b7c8",
     "color": "Black",
     "clothing": "Sundress",
     "occasion": "Summer"
   },
   {
+    "id": "d9e0f1g2",
     "color": "Blue",
     "clothing": "Floral Print Top",
     "occasion": "Casual"
   },
   {
+    "id": "h3i4j5k6",
     "color": "Green",
     "clothing": "Bomber Jacket",
     "occasion": "Trendy"
   },
   {
+    "id": "l7m8n9o0",
     "color": "Pink",
     "clothing": "Culottes",
     "occasion": "Chic"
   },
   {
+    "id": "p1q2r3s4",
     "color": "Gray",
     "clothing": "Knit Scarf",
     "occasion": "Cold Weather"
   },
   {
+    "id": "t5u6v7w8",
     "color": "Orange",
     "clothing": "Hoodie",
     "occasion": "Relaxed"
   },
   {
+    "id": "x9y0z1a2",
     "color": "Brown",
     "clothing": "Leather Jacket",
     "occasion": "Edgy"
   },
   {
+    "id": "b3c4d5e6",
     "color": "Yellow",
     "clothing": "Sundress",
     "occasion": "Summer"
   },
   {
-    "color": "Black",
-    "clothing": "Trousers",
-    "occasion": "Professional"
-  },
-  {
-    "color": "Blue",
-    "clothing": "Denim Jacket",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Green",
-    "clothing": "Plaid Flannel Shirt",
-    "occasion": "Rustic"
-  },
-  {
-    "color": "Pink",
-    "clothing": "V-neck T-shirt",
-    "occasion": "Casual"
-  },
-  {
-    "color": "Black",
-    "clothing": "Leather Jacket",
-    "occasion": "Edgy"
-  },
-  {
-    "color": "Yellow",
-    "clothing": "Sundress",
-    "occasion": "Summer"
-  },
-  {
+    "id": "f7g8h9i0",
     "color": "Green",
     "clothing": "Cargo Pants",
     "occasion": "Practical"
   },
   {
+    "id": "j1k2l3m4",
     "color": "Pink",
     "clothing": "Hoodie",
     "occasion": "Casual"
   },
   {
+    "id": "n5o6p7q8",
     "color": "Gray",
     "clothing": "Knit Sweater",
     "occasion": "Layering"
   },
   {
+    "id": "r9s0t1u2",
     "color": "Purple",
     "clothing": "Silk Blouse",
     "occasion": "Elegant"
   },
   {
+    "id": "v3w4x5y6",
     "color": "Orange",
     "clothing": "Jumpsuit",
     "occasion": "Fun"
   },
   {
+    "id": "z7a8b9c0",
     "color": "Brown",
     "clothing": "Corduroy Pants",
     "occasion": "Vintage"
   },
   {
+    "id": "d1e2f3g4",
     "color": "Black",
     "clothing": "Turtleneck",
     "occasion": "Timeless"
   },
   {
+    "id": "h5i6j7k8",
     "color": "Blue",
     "clothing": "Baseball Cap",
     "occasion": "Casual"
   },
   {
+    "id": "l9m0n1o2",
     "color": "White",
     "clothing": "Linen Shirt",
     "occasion": "Summer"
   },
   {
+    "id": "p3q4r5s6",
     "color": "Floral",
     "clothing": "Maxi Dress",
     "occasion": "Romantic"
   },
   {
+    "id": "t7u8v9w0",
     "color": "Camouflage",
     "clothing": "Cargo Shorts",
     "occasion": "Rugged"
   },
   {
+    "id": "x1y2z3a4",
     "color": "Polka Dot",
     "clothing": "Blouse",
     "occasion": "Playful"
   },
   {
+    "id": "b5c6d7e8",
     "color": "Denim",
     "clothing": "Overalls",
     "occasion": "Casual"
   },
   {
+    "id": "f9g0h1i2",
     "color": "Striped",
     "clothing": "Crew Neck Sweater",
     "occasion": "Cozy"
   },
   {
+    "id": "j3k4l5m6",
     "color": "Plaid",
     "clothing": "Skirt",
     "occasion": "Versatile"
   },
   {
+    "id": "n7o8p9q0",
     "color": "Black",
     "clothing": "Leather Pants",
     "occasion": "Edgy"
   },
   {
+    "id": "r1s2t3u4",
     "color": "Red",
     "clothing": "Puffer Jacket",
     "occasion": "Cold Weather"
   },
   {
+    "id": "v5w6x7y8",
     "color": "Blue",
     "clothing": "Chambray Shirt",
     "occasion": "Relaxed"
   },
   {
+    "id": "z9a0b1c2",
     "color": "Green",
     "clothing": "Cargo Shorts",
     "occasion": "Casual"
   },
   {
+    "id": "d3e4f5g6",
     "color": "Yellow",
     "clothing": "Raincoat",
     "occasion": "Rainy Days"
   },
   {
+    "id": "h7i8j9k0",
     "color": "White",
     "clothing": "Crochet Top",
     "occasion": "Boho"
   },
   {
+    "id": "l1m2n3o4",
     "color": "Brown",
     "clothing": "Suede Skirt",
     "occasion": "Chic"
   },
   {
+    "id": "p5q6r7s8",
     "color": "Pink",
     "clothing": "Bomber Jacket",
     "occasion": "Trendy"
   },
   {
+    "id": "t9u0v1w2",
     "color": "Striped",
     "clothing": "Tank Top",
     "occasion": "Layering"
   },
   {
+    "id": "x3y4z5a6",
     "color": "Floral",
     "clothing": "Wrap Dress",
     "occasion": "Elegant"
   },
   {
+    "id": "b7c8d9e0",
     "color": "Purple",
     "clothing": "Velvet Blazer",
     "occasion": "Refined"
   },
   {
+    "id": "f3g4h5i6",
     "color": "Gray",
     "clothing": "Jogging Pants",
     "occasion": "Comfort"
   },
   {
+    "id": "j7k8l9m0",
     "color": "Orange",
     "clothing": "Crop Top",
     "occasion": "Casual"
   },
   {
+    "id": "n9o0p1q2",
     "color": "Black",
     "clothing": "Formal Suit",
     "occasion": "Special"
   },
   {
+    "id": "r3s4t5u6",
     "color": "Blue",
     "clothing": "Jean Shorts",
     "occasion": "Casual"
   },
   {
+    "id": "v7w8x9y0",
     "color": "White",
     "clothing": "Button-Up Shirt",
     "occasion": "Versatile"
   },
   {
+    "id": "z1a2b3c4",
     "color": "Green",
     "clothing": "Sweater Dress",
     "occasion": "Cold Weather"
   },
   {
+    "id": "d5e6f7g8",
     "color": "Yellow",
     "clothing": "Ruffled Blouse",
     "occasion": "Feminine"
   },
   {
+    "id": "h9i0j1k2",
     "color": "Black",
     "clothing": "Leather Skirt",
     "occasion": "Edgy"
   },
   {
+    "id": "l3m4n5o6",
     "color": "Red",
     "clothing": "Blazer",
     "occasion": "Professional"
   },
   {
+    "id": "p7q8r9s0",
     "color": "Blue",
     "clothing": "Floral Maxi Skirt",
     "occasion": "Boho"
   },
   {
+    "id": "t1u2v3w4",
     "color": "Green",
     "clothing": "Cargo Pants",
     "occasion": "Adventure"
   },
   {
+    "id": "x5y6z7a8",
     "color": "Yellow",
     "clothing": "Sun Hat",
     "occasion": "Summer"
   },
   {
+    "id": "b9c0d1e2",
     "color": "Black",
     "clothing": "Cropped Sweater",
     "occasion": "Casual"
   },
   {
+    "id": "f3g4h5i6",
     "color": "Blue",
     "clothing": "Suede Jacket",
     "occasion": "Edgy"
   },
   {
+    "id": "j7k8l9m0",
     "color": "Green",
     "clothing": "Plaid Skirt",
     "occasion": "Classic"
   },
   {
+    "id": "n3o4p5q6",
     "color": "Yellow",
     "clothing": "Mini Dress",
     "occasion": "Flirty"
   },
   {
+    "id": "r7s8t9u0",
     "color": "Black",
     "clothing": "Tailored Trousers",
     "occasion": "Professional"
   },
   {
+    "id": "v1w2x3y4",
     "color": "Red",
     "clothing": "Wrap Top",
     "occasion": "Chic"
