@@ -17,7 +17,7 @@
     }
 </style>
 
-<body class="min-h-screen w-full bg-gray-900 text-gray-300 font-quicksand">
+<body class="min-h-screen w-full  bg-neutral-100 font-quicksand">
     <div class="navbar flex justify-between text-center px-8 bg-blue-500 p-3 text-white  h-20">
         <div class="logo">
             <a href="https://www.flipkart.com/" class="text-xl font-bold">
@@ -35,36 +35,39 @@
     </div>
 
     <div class="container mx-auto p-8">
-        <div class="hero mt-8">
-            <h1 class="text-4xl font-bold">Hero Section</h1>
+        <div class="hero mt-8 flex flex-col gap-4">
+            <h1 class="text-4xl font-bold text-center">Convenstional Retreival System</h1>
 
             <form method="POST" action="/">
                 <div class="mt-4">
                     <label for="query" class="block font-medium">Enter your prompt:</label>
-                    <input type="text" class="mt-1 p-2 w-full border rounded-md" id="query" name="query"
-                        placeholder="How can I help you today?" required>
+                    <input type="text"
+                        class="mt-1 p-2 w-full border focus:outline-none rounded-md text-xl text-gray-800" id="query"
+                        name="query" placeholder="How can I help you today?" required>
                 </div>
                 <button type="submit" class="mt-2 px-4 py-2 bg-blue-500 text-white rounded-md">Submit</button>
             </form>
 
-            <ul class="mt-4 space-y-2">
+            <ul class="mt-4 space-y-2 flex flex-col gap-4">
                 {% for q, a in chat_history[::-1] %}
-                <li class="flex flex-col items-start">
-                    <span class="bg-blue-500 text-white px-4 py-2 rounded-t-lg">
-                        You
-                    </span>
-                    <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg">
-                        {{ q }}
-                    </p>
-                </li>
-                <li class="flex flex-col items-start">
-                    <span class="bg-green-500 text-white px-4 py-2 rounded-t-lg">
-                        Assistant
-                    </span>
-                    <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg">
-                        {{ a }}
-                    </p>
-                </li>
+                <div class="border-2  bg-gray-100 p-3 rounded-md flex flex-col gap-4 justify-center">
+                    <li class="flex flex-col items-start">
+                        <span class="bg-blue-500 text-white px-4 py-2 rounded-t-lg">
+                            You
+                        </span>
+                        <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg text-md">
+                            {{ q }}
+                        </p>
+                    </li>
+                    <li class="flex flex-col items-start">
+                        <span class="bg-green-500 text-white px-4 py-2 rounded-t-lg">
+                            Assistant
+                        </span>
+                        <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg text-md">
+                            {{ a }}
+                        </p>
+                    </li>
+                </div>
                 {% endfor %}
             </ul>
 
