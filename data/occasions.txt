@@ -1,319 +1,410 @@
 {
-  "occasions": [
+  occasions: [
     {
-      "name": "Casual Day Out",
-      "outfit_combinations": [
+      name: "Casual Day Out",
+      outfit_combinations: [
         {
-          "name": "Jeans and T-Shirt",
-          "description": "A classic and comfortable choice for a casual day.",
-          "clothing_items": [
+          name: "Jeans and T-Shirt",
+          description: "A classic and comfortable choice for a casual day.",
+          clothing_items: [
             "Blue jeans",
             "White T-shirt",
             "Sneakers",
-            "Denim jacket"
-          ]
+            "Denim jacket",
+          ],
         },
         {
-          "name": "Maxi Dress",
-          "description": "An effortless and stylish option for a relaxed outing.",
-          "clothing_items": [
+          name: "Maxi Dress",
+          description: "An effortless and stylish option for a relaxed outing.",
+          clothing_items: [
             "Printed maxi dress",
             "Sandals",
             "Sun hat",
-            "Crossbody bag"
-          ]
+            "Crossbody bag",
+          ],
         },
         {
-          "name": "Shorts and Tank Top",
-          "description": "A breezy combination perfect for warm weather.",
-          "clothing_items": [
+          name: "Shorts and Tank Top",
+          description: "A breezy combination perfect for warm weather.",
+          clothing_items: [
             "Denim shorts",
             "Striped tank top",
             "Flip-flops",
-            "Sunglasses"
-          ]
-        }
-      ]
+            "Sunglasses",
+          ],
+        },
+      ],
     },
     {
-      "name": "Formal Business Meeting",
-      "outfit_combinations": [
+      name: "Formal Business Meeting",
+      outfit_combinations: [
         {
-          "name": "Business Suit",
-          "description": "A sharp and professional look for important meetings.",
-          "clothing_items": [
+          name: "Business Suit",
+          description: "A sharp and professional look for important meetings.",
+          clothing_items: [
             "Navy blue suit",
             "White dress shirt",
             "Tie",
-            "Black dress shoes"
-          ]
+            "Black dress shoes",
+          ],
         },
         {
-          "name": "Pencil Skirt and Blouse",
-          "description": "A sophisticated ensemble suitable for a business setting.",
-          "clothing_items": [
+          name: "Pencil Skirt and Blouse",
+          description:
+            "A sophisticated ensemble suitable for a business setting.",
+          clothing_items: [
             "Black pencil skirt",
             "Light blue blouse",
             "Black heels",
-            "Briefcase"
-          ]
+            "Briefcase",
+          ],
         },
         {
-          "name": "Tailored Trousers and Blazer",
-          "description": "A polished combination that exudes professionalism.",
-          "clothing_items": [
+          name: "Tailored Trousers and Blazer",
+          description: "A polished combination that exudes professionalism.",
+          clothing_items: [
             "Charcoal gray trousers",
             "Black blazer",
             "White silk blouse",
-            "Loafers"
-          ]
-        }
-      ]
+            "Loafers",
+          ],
+        },
+      ],
     },
     {
-      "name": "Evening Gala",
-      "outfit_combinations": [
+      name: "Evening Gala",
+      outfit_combinations: [
         {
-          "name": "Floor-Length Gown",
-          "description": "An elegant and glamorous choice for a formal event.",
-          "clothing_items": [
+          name: "Floor-Length Gown",
+          description: "An elegant and glamorous choice for a formal event.",
+          clothing_items: [
             "Black floor-length gown",
             "Statement earrings",
             "Clutch purse",
-            "Stiletto heels"
-          ]
+            "Stiletto heels",
+          ],
         },
         {
-          "name": "Tuxedo",
-          "description": "A classic and refined option for a black-tie affair.",
-          "clothing_items": [
+          name: "Tuxedo",
+          description: "A classic and refined option for a black-tie affair.",
+          clothing_items: [
             "Black tuxedo jacket and trousers",
             "White dress shirt",
             "Black bowtie",
-            "Oxford shoes"
-          ]
+            "Oxford shoes",
+          ],
         },
         {
-          "name": "Cocktail Dress",
-          "description": "A stylish and versatile outfit for a semi-formal event.",
-          "clothing_items": [
+          name: "Cocktail Dress",
+          description:
+            "A stylish and versatile outfit for a semi-formal event.",
+          clothing_items: [
             "Red cocktail dress",
             "Silver heels",
             "Clutch bag",
-            "Chandelier earrings"
-          ]
-        }
-      ]
+            "Chandelier earrings",
+          ],
+        },
+      ],
     },
     {
-      "name": "Beach Vacation",
-      "outfit_combinations": [
+      name: "Beach Vacation",
+      outfit_combinations: [
         {
-          "name": "Swimsuit and Cover-Up",
-          "description": "A beach-ready ensemble for soaking up the sun and playing in the waves.",
-          "clothing_items": [
+          name: "Swimsuit and Cover-Up",
+          description:
+            "A beach-ready ensemble for soaking up the sun and playing in the waves.",
+          clothing_items: [
             "Bikini or one-piece swimsuit",
             "Sheer cover-up dress",
             "Straw hat",
-            "Flip-flops"
-          ]
+            "Flip-flops",
+          ],
         },
         {
-          "name": "Board Shorts and Rash Guard",
-          "description": "An active and protective outfit for water sports and beach activities.",
-          "clothing_items": [
+          name: "Board Shorts and Rash Guard",
+          description:
+            "An active and protective outfit for water sports and beach activities.",
+          clothing_items: [
             "Colorful board shorts",
             "Long-sleeve rash guard",
             "Water shoes",
-            "Sunglasses"
-          ]
+            "Sunglasses",
+          ],
         },
         {
-          "name": "Beach Maxi Dress",
-          "description": "A flowy and lightweight dress perfect for beachside strolls.",
-          "clothing_items": [
+          name: "Beach Maxi Dress",
+          description:
+            "A flowy and lightweight dress perfect for beachside strolls.",
+          clothing_items: [
             "Printed maxi dress",
             "Wide-brim sun hat",
             "Sandals",
-            "Beach tote"
-          ]
-        }
-      ]
+            "Beach tote",
+          ],
+        },
+      ],
     },
     {
-      "name": "Outdoor Music Festival",
-      "outfit_combinations": [
+      name: "Outdoor Music Festival",
+      outfit_combinations: [
         {
-          "name": "Boho Chic",
-          "description": "A free-spirited and comfortable look for dancing and enjoying live music.",
-          "clothing_items": [
+          name: "Boho Chic",
+          description:
+            "A free-spirited and comfortable look for dancing and enjoying live music.",
+          clothing_items: [
             "Crochet crop top",
             "Floral print wide-leg pants",
             "Fringe vest",
-            "Ankle boots"
-          ]
+            "Ankle boots",
+          ],
         },
         {
-          "name": "Graphic Tee and Denim Shorts",
-          "description": "A laid-back and fun outfit for a day of music and fun.",
-          "clothing_items": [
+          name: "Graphic Tee and Denim Shorts",
+          description: "A laid-back and fun outfit for a day of music and fun.",
+          clothing_items: [
             "Vintage band graphic tee",
             "Distressed denim shorts",
             "Sneakers",
-            "Round sunglasses"
-          ]
+            "Round sunglasses",
+          ],
         },
         {
-          "name": "Flowy Romper",
-          "description": "A playful and easy-to-move-in romper for a carefree festival experience.",
-          "clothing_items": [
+          name: "Flowy Romper",
+          description:
+            "A playful and easy-to-move-in romper for a carefree festival experience.",
+          clothing_items: [
             "Patterned flowy romper",
             "Suede fringe crossbody bag",
             "Strappy sandals",
-            "Sunscreen"
-          ]
-        }
-      ]
+            "Sunscreen",
+          ],
+        },
+      ],
     },
     {
-      "name": "Date Night",
-      "outfit_combinations": [
+      name: "Date Night",
+      outfit_combinations: [
         {
-          "name": "Little Black Dress",
-          "description": "A timeless and sophisticated choice for a romantic evening.",
-          "clothing_items": [
+          name: "Little Black Dress",
+          description:
+            "A timeless and sophisticated choice for a romantic evening.",
+          clothing_items: [
             "Black fitted dress",
             "Statement necklace",
             "Heeled pumps",
-            "Clutch purse"
-          ]
+            "Clutch purse",
+          ],
         },
         {
-          "name": "Dinner Date Jumpsuit",
-          "description": "A stylish and modern jumpsuit for a chic dinner outing.",
-          "clothing_items": [
+          name: "Dinner Date Jumpsuit",
+          description:
+            "A stylish and modern jumpsuit for a chic dinner outing.",
+          clothing_items: [
             "Tailored jumpsuit",
             "Belted waist",
             "Strappy heels",
-            "Dangle earrings"
-          ]
+            "Dangle earrings",
+          ],
         },
         {
-          "name": "Dressy Jeans and Blouse",
-          "description": "A smart-casual combination that strikes a balance between comfort and elegance.",
-          "clothing_items": [
+          name: "Dressy Jeans and Blouse",
+          description:
+            "A smart-casual combination that strikes a balance between comfort and elegance.",
+          clothing_items: [
             "Dark wash skinny jeans",
             "Silk blouse",
             "Pointed-toe flats",
-            "Leather clutch"
-          ]
-        }
-      ]
+            "Leather clutch",
+          ],
+        },
+      ],
     },
     {
-      "name": "Cocktail Party",
-      "outfit_combinations": [
+      name: "Cocktail Party",
+      outfit_combinations: [
         {
-          "name": "Sleek Cocktail Dress",
-          "description": "A polished and alluring dress perfect for a sophisticated cocktail event.",
-          "clothing_items": [
+          name: "Sleek Cocktail Dress",
+          description:
+            "A polished and alluring dress perfect for a sophisticated cocktail event.",
+          clothing_items: [
             "Form-fitting cocktail dress",
             "Stiletto heels",
             "Clutch with embellishments",
-            "Chandelier earrings"
-          ]
+            "Chandelier earrings",
+          ],
         },
         {
-          "name": "Tailored Suit",
-          "description": "A sharp and confident suit ensemble suitable for a semi-formal cocktail gathering.",
-          "clothing_items": [
+          name: "Tailored Suit",
+          description:
+            "A sharp and confident suit ensemble suitable for a semi-formal cocktail gathering.",
+          clothing_items: [
             "Crisp blazer and trousers",
             "Satin blouse",
             "Pointed-toe pumps",
-            "Statement brooch"
-          ]
+            "Statement brooch",
+          ],
         },
         {
-          "name": "Elegant Jumpsuit",
-          "description": "An elegant and modern jumpsuit that combines comfort with style.",
-          "clothing_items": [
+          name: "Elegant Jumpsuit",
+          description:
+            "An elegant and modern jumpsuit that combines comfort with style.",
+          clothing_items: [
             "Sleeveless jumpsuit with wide legs",
             "Strappy metallic sandals",
             "Chic clutch",
-            "Pearl drop earrings"
-          ]
-        }
-      ]
+            "Pearl drop earrings",
+          ],
+        },
+      ],
     },
     {
-      "name": "Casual Weekend Outing",
-      "outfit_combinations": [
+      name: "Casual Weekend Outing",
+      outfit_combinations: [
         {
-          "name": "Denim Shorts and Graphic Tee",
-          "description": "A classic and relaxed combo for a casual day out with friends.",
-          "clothing_items": [
+          name: "Denim Shorts and Graphic Tee",
+          description:
+            "A classic and relaxed combo for a casual day out with friends.",
+          clothing_items: [
             "Distressed denim shorts",
             "Printed graphic tee",
             "Canvas sneakers",
-            "Baseball cap"
-          ]
+            "Baseball cap",
+          ],
         },
         {
-          "name": "Casual Sundress",
-          "description": "A breezy and comfortable sundress for a leisurely weekend adventure.",
-          "clothing_items": [
+          name: "Casual Sundress",
+          description:
+            "A breezy and comfortable sundress for a leisurely weekend adventure.",
+          clothing_items: [
             "Floral-print sundress",
             "Slip-on espadrilles",
             "Straw crossbody bag",
-            "Cat-eye sunglasses"
-          ]
+            "Cat-eye sunglasses",
+          ],
         },
         {
-          "name": "Sporty Athleisure",
-          "description": "A sporty and trendy outfit perfect for active and relaxed weekend activities.",
-          "clothing_items": [
+          name: "Sporty Athleisure",
+          description:
+            "A sporty and trendy outfit perfect for active and relaxed weekend activities.",
+          clothing_items: [
             "Athletic leggings",
             "Graphic sweatshirt",
             "Running shoes",
-            "Fanny pack"
-          ]
-        }
-      ]
+            "Fanny pack",
+          ],
+        },
+      ],
     },
     {
-      "name": "Job Interview",
-      "outfit_combinations": [
+      name: "Job Interview",
+      outfit_combinations: [
         {
-          "name": "Classic Suit",
-          "description": "A polished and professional suit ensemble for making a strong impression.",
-          "clothing_items": [
+          name: "Classic Suit",
+          description:
+            "A polished and professional suit ensemble for making a strong impression.",
+          clothing_items: [
             "Tailored blazer and pants",
             "Crisp button-down shirt",
             "Closed-toe pumps",
-            "Leather portfolio"
-          ]
+            "Leather portfolio",
+          ],
         },
         {
-          "name": "Pencil Skirt and Blouse",
-          "description": "A sophisticated and versatile outfit that exudes professionalism.",
-          "clothing_items": [
+          name: "Pencil Skirt and Blouse",
+          description:
+            "A sophisticated and versatile outfit that exudes professionalism.",
+          clothing_items: [
             "High-waisted pencil skirt",
             "Silk blouse",
             "Structured tote bag",
-            "Pointed-toe heels"
-          ]
+            "Pointed-toe heels",
+          ],
         },
         {
-          "name": "Modern Business Casual",
-          "description": "A modern and stylish take on business casual attire suitable for a creative job interview.",
-          "clothing_items": [
+          name: "Modern Business Casual",
+          description:
+            "A modern and stylish take on business casual attire suitable for a creative job interview.",
+          clothing_items: [
             "Cropped trousers",
             "Printed button-up shirt",
             "Loafers",
-            "Statement watch"
-          ]
-        }
-      ]
-    }
-  ]
+            "Statement watch",
+          ],
+        },
+      ],
+    },
+    {
+      name: "Jogging Outfits",
+      outfit_combinations: [
+        {
+          name: "Warm Weather Jogging",
+          description: "Apparel for jogging in warm weather conditions.",
+          clothing_items: [
+            "Lightweight moisture-wicking t-shirt",
+            "Breathable shorts or running leggings",
+            "Comfortable moisture-wicking socks",
+            "Running shoes with good arch support",
+            "Sun hat or cap",
+            "Sunglasses (if needed)",
+            "Sunscreen",
+          ],
+        },
+        {
+          name: "Cool Weather Jogging",
+          description: "Outfit for jogging in cool weather.",
+          clothing_items: [
+            "Long-sleeve moisture-wicking base layer",
+            "Lightweight, breathable jacket or windbreaker",
+            "Running tights or leggings",
+            "Comfortable moisture-wicking socks",
+            "Running shoes with good cushioning",
+            "Headband or beanie to keep ears warm",
+            "Gloves (if needed)",
+          ],
+        },
+        {
+          name: "Cold Weather Jogging",
+          description: "Attire for jogging in cold weather conditions.",
+          clothing_items: [
+            "Thermal moisture-wicking top (base layer)",
+            "Insulating mid-layer (fleece or light down jacket)",
+            "Running pants or thermal leggings",
+            "Moisture-wicking socks",
+            "Insulated and wind-resistant running shoes",
+            "Headband or hat to cover ears",
+            "Neck gaiter or scarf",
+            "Running gloves",
+          ],
+        },
+        {
+          name: "Rainy Weather Jogging",
+          description: "Outfit for jogging in rainy conditions.",
+          clothing_items: [
+            "Waterproof or water-resistant jacket",
+            "Moisture-wicking long-sleeve shirt or base layer",
+            "Quick-drying running shorts or pants",
+            "Waterproof or water-resistant shoes with good traction",
+            "Hat or cap to keep rain off your face",
+            "Lightweight rain poncho",
+            "Anti-blister moisture-wicking socks",
+          ],
+        },
+        {
+          name: "Nighttime Jogging",
+          description: "Attire for jogging during nighttime.",
+          clothing_items: [
+            "Reflective or high-visibility moisture-wicking clothing",
+            "Light, breathable long-sleeve shirt or base layer",
+            "Running tights or leggings",
+            "Reflective running shoes or shoe accessories",
+            "LED safety lights or headlamp",
+            "Reflective hat or cap",
+            "Light, moisture-wicking gloves (if needed)",
+          ],
+        },
+      ],
+    },
+  ],
 }
+  
