@@ -1,0 +1,19 @@
+{
+ "customers": [
+    {
+      "name": "sahilxar",
+      "cart": ["a1b2c3d4", "e5f6g7h8", "k7l8m9n0", "q1r2s3t4"],
+      "wishlist": ["i9j0k1l2", "m3n4o5p6", "q7r8s9t0", "z9a0b1c2", "u5v6w7x8"]
+    },
+    {
+      "name": "sameer236",
+      "cart": ["u1v2w3x4", "y5z6a7b8", "o1p2q3r4", "s7t8u9v0"],
+      "wishlist": ["c9d0e1f2", "g3h4i5j6", "a3b4c5d6", "w9x0y1z2", "e9f0g1h2"]
+    },
+    {
+      "name": "sameer3112",
+      "cart": ["s5t6u7v8", "w3x4y5z6", "i1j2k3l4", "m7n8o9p0"],
+      "wishlist": ["e7f8g9h0", "m5n6o7p8", "q9r0s1t2", "u3v4w5x6", "k9l0m1n2"]
+    }
+  ]
+}
