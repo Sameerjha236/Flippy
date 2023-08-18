@@ -55,7 +55,7 @@ def index():
         answer = result["answer"]
         chat_history.append((query, answer))  # Append to global chat history
 
-    return render_template("blank.html", query=query, chat_history=chat_history)
+    return render_template("index.html", query=query, chat_history=chat_history)
 
 
 if __name__ == "__main__":
