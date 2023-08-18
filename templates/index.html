@@ -1,40 +1,33 @@
 <html>
-  <head>
-    <title>Outfit Generator Chatbot</title>
-    <!-- Link Bootstrap CDN -->
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-    />
-  </head>
 
-  <body>
-    <div class="container">
-      <h1>Personal Stylists</h1>
-      <!-- Create a form for entering the prompt -->
-      <form method="POST" action="/">
-        <div class="form-group">
-          <label for="query">Enter your prompt:</label>
-          <input
-            type="text"
-            class="form-control"
-            id="query"
-            name="query"
-            placeholder="How can I help you today?"
-            required
-          />
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
-      </form>
+<head>
+  <title>Outfit Generator Chatbot</title>
+  <!-- Link Bootstrap CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
 
-      <!-- Create a list for showing the query and chat history -->
-      <ul class="list-group">
-        <!-- Loop through the chat history list in reverse order (latest first) -->
-        {% for q, a in chat_history[::-1] %}
-        <li class="list-group-item"><strong>You:</strong> {{ q }}</li>
-        <li class="list-group-item"><strong>Assistant:</strong> {{ a }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-  </body>
+<body>
+  <div class="container">
+    <h1>Personal Stylists</h1>
+    <!-- Create a form for entering the prompt -->
+    <form method="POST" action="/">
+      <div class="form-group">
+        <label for="query">Enter your prompt:</label>
+        <input type="text" class="form-control" id="query" name="query" placeholder="How can I help you today?"
+          required />
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    <!-- Create a list for showing the query and chat history -->
+    <ul class="list-group">
+      <!-- Loop through the chat history list in reverse order (latest first) -->
+      {% for q, a in chat_history[::-1] %}
+      <li class="list-group-item"><strong>You:</strong> {{ q }}</li>
+      <li class="list-group-item"><strong>Assistant:</strong> {{ a }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</body>
+
 </html>

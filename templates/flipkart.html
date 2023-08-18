@@ -66,19 +66,17 @@
                         class="mt-1 p-2 w-full border focus:outline-none rounded-md text-sm text-gray-800" id="query"
                         name="query" placeholder="How can I help you today?" required>
                 </div>
-                <!-- <button type="submit" class="mt-2 px-4 py-2 bg-blue-500 text-white text-md rounded-md">Submit</button> -->
             </form>
 
             <ul class="mt-4 space-y-2 flex flex-col gap-4 text-sm">
-                <!-- {% for q, a in chat_history[::-1] %} -->
+                {% for q, a in chat_history[::-1] %}
                 <div class="border-2  bg-gray-100 p-3 rounded-md flex flex-col gap-4 justify-center">
                     <li class="flex flex-col items-start">
                         <span class="bg-blue-500 text-white px-4 py-2 rounded-t-lg">
                             You
                         </span>
                         <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg text-md">
-                            <!-- {{ q }} -->
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi sin
+                            {{ q }}
                         </p>
                     </li>
                     <li class="flex flex-col items-start">
@@ -86,12 +84,7 @@
                             Assistant
                         </span>
                         <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg text-md">
-                            <!-- {{ a }} -->
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laudantium aliquam
-                            inventore
-                            alias ad quis quasi, similique accusamus animi eaque adipisci ex nostrum pariatur, saepe
-                            eos?
-                            Quibusdam explicabo sunt adipisci.
+                            {{ a }}
                         </p>
                     </li>
                 </div>
@@ -101,8 +94,7 @@
                             You
                         </span>
                         <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg text-md">
-                            <!-- {{ q }} -->
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi sin
+                            {{ q }}
                         </p>
                     </li>
                     <li class="flex flex-col items-start">
@@ -110,16 +102,11 @@
                             Assistant
                         </span>
                         <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg text-md">
-                            <!-- {{ a }} -->
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laudantium aliquam
-                            inventore
-                            alias ad quis quasi, similique accusamus animi eaque adipisci ex nostrum pariatur, saepe
-                            eos?
-                            Quibusdam explicabo sunt adipisci.
+                            {{ a }}
                         </p>
                     </li>
                 </div>
-                <!-- {% endfor %} -->
+                {% endfor %}
             </ul>
 
         </div>
