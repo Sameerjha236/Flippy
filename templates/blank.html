@@ -94,8 +94,48 @@
                 </div>
                 {% endfor %}
             </ul>
+        <ul class="mt-4 space-y-2 flex flex-col gap-4 text-sm">
+            {% for q, a in chat_history[::-1] %}
+            <div class="border-2  bg-gray-100 p-3 rounded-md flex flex-col gap-4 justify-center">
+                <li class="flex flex-col items-start">
+                    <span class="bg-blue-500 text-white px-4 py-2 rounded-t-lg">
+                        You
+                    </span>
+                    <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg text-md">
+                        {{ q }}
+                    </p>
+                </li>
+                <li class="flex flex-col items-start">
+                    <span class="bg-green-500 text-white px-4 py-2 rounded-t-lg">
+                        Assistant
+                    </span>
+                    <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg text-md">
+                        {{ a }}
+                    </p>
+                </li>
+            </div>
+            <div class="border-2  bg-gray-100 p-3 rounded-md flex flex-col gap-4 justify-center">
+                <li class="flex flex-col items-start">
+                    <span class="bg-blue-500 text-white px-4 py-2 rounded-t-lg">
+                        You
+                    </span>
+                    <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg text-md">
+                        {{ q }}
+                    </p>
+                </li>
+                <li class="flex flex-col items-start">
+                    <span class="bg-green-500 text-white px-4 py-2 rounded-t-lg">
+                        Assistant
+                    </span>
+                    <p class="bg-gray-100 text-gray-800 px-4 py-2 rounded-b-lg text-md">
+                        {{ a }}
+                    </p>
+                </li>
+            </div>
+            {% endfor %}
+        </ul>
 
-        </div>
+    </div>
 </body>
 
 </html>
