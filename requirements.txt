@@ -1,0 +1,8 @@
+constants==0.6.0
+Flask==2.1.2
+Flask-Cors==3.0.10
+langchain==0.0.265
+openai==0.27.8
+openapi-schema-pydantic==1.2.4
+unstructured==0.10.0
+
