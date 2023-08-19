@@ -7,8 +7,8 @@
     },
     {
       "name": "sameer236",
-      "cart": ["u1v2w3x4", "y5z6a7b8", "o1p2q3r4", "s7t8u9v0"],
-      "wishlist": ["c9d0e1f2", "g3h4i5j6", "a3b4c5d6", "w9x0y1z2", "e9f0g1h2"]
+      "cart": ["black hat", "y5z6a7b8", "o1p2q3r4", "s7t8u9v0"],
+      "wishlist": ["Red Jacket", "Addidas Hoodie", "Denim Blue Jeans", "Pink Shirt", "Sunglasses"]
     },
     {
       "name": "sameer3112",

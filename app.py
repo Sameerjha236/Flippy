@@ -19,7 +19,7 @@ os.environ["OPENAI_API_KEY"] = constants.APIKEY
 
 app = Flask(__name__)
 
-chat_history = []  # Store chat history globally
+chat_history = [] 
 PERSIST = False
 
 if PERSIST and os.path.exists("persist"):
@@ -28,10 +28,6 @@ if PERSIST and os.path.exists("persist"):
                          embedding_function=OpenAIEmbeddings())
     index = VectorStoreIndexWrapper(vectorstore=vectorstore)
 else:
-    # Use this line if you only need data.txt
-
-    # loader = TextLoader("data/dog.txt")
-    # loader = TextLoader("data/products.txt")
     loader = DirectoryLoader("data/")
     if PERSIST:
         index = VectorstoreIndexCreator(
@@ -53,11 +49,11 @@ def index():
         query = request.form.get("query")
         result = chain({"question": query, "chat_history": chat_history})
         answer = result["answer"]
-        chat_history.append((query, answer))  # Append to global chat history
+        chat_history.append((query, answer))
 
     return render_template("index.html", query=query, chat_history=chat_history)
 
 
 if __name__ == "__main__":
-    chat_history = []  # Empty chat history when re-running the application
+    chat_history = []
     app.run()
