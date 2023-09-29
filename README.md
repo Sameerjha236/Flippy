@@ -9,7 +9,7 @@ Robust Server-Side Functionality: To guarantee seamless operations and efficient
 Advanced Technologies: Flippy leverages advanced technologies to optimize data retrieval and processing, enhancing the effectiveness of the outfit recommendation system. Technologies such as Langchain and GPT are integrated to provide top-notch recommendations based on user preferences.
 
 ## Technologies Used
-Frontend: HTML, Tailwind CSS
+Frontend: HTML, Tailwind CSS 
 Backend: Flask
 Recommendation Engine: Langchain, GPT
 
