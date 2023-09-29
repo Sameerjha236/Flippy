@@ -1,4 +1,4 @@
-#Flippy - Personalized Outfit Generator for Flipkart Grid 5.0
+# Flippy - Personalized Outfit Generator for Flipkart Grid 5.0
 Flippy is a customized outfit generator developed for the Flipkart Grid 5.0 2nd Round, with a primary focus on providing personalized outfit recommendations. This repository showcases the technical details and components that make Flippy an innovative and efficient solution.
 
 ## Key Features
